@@ -39,6 +39,10 @@ header {
   justify-content: space-between;
 }
 
+#name {
+  font-family: inherit;
+}
+
 #second {
   display: flex;
   flex-direction: row;
@@ -57,9 +61,6 @@ header {
 
 /* front page */
 
-#name {
-  font-family: inherit;
-}
 
 .inline {
   display: inline;
