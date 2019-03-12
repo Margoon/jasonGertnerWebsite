@@ -16,7 +16,6 @@ body {
 }
 
 /* header*/
-
 header {
   width: 100%;
   font-family: 'Permanent Marker', sans-serif;
@@ -50,7 +49,6 @@ header {
 }
 
 /* end header */
-
 /* body */
 .FullFlex {
   display: flex;
@@ -60,8 +58,6 @@ header {
 }
 
 /* front page */
-
-
 .inline {
   display: inline;
 }
@@ -78,31 +74,41 @@ header {
 }
 
 /*end front page*/
+.page {
+  display: flex;
+  flex-direction: row;
+}
 
-.game_name,
-.position {
-  margin: .25em;
+.pageLeft {
+  display: flex;
+  flex-direction: column;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 
 .links {
   display: flex;
-  flex-wrap: wrap;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   max-width: inherit;
+}
+
+.shots {
+  display: flex;
+  flex-direction: column;
+}
+
+.about {
+  display: none;
 }
 
 #avatar {
   max-width: 100%;
   margin: 1em 0;
-}
-
-#info_links {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: center;
-  max-width: 100%;
 }
 
 .outlinks {
@@ -117,7 +123,7 @@ header {
   font-size: 28px;
 }
 
-#about {
+#aboutme {
   text-align: justify;
   text-justify: inter-word;
   font-size: 1.5em;

@@ -23,7 +23,8 @@
     </div>
     <div id="second">
       <a href="#" data-bind="click: frontpage">Projects</a>
-      <a href="#" data-bind="click: about">About</a> <!--make function-->
+      <a href="#" data-bind="click: about">About</a>
+      <!--make function-->
     </div>
   </header>
 
@@ -41,38 +42,45 @@
     <ul class="projectPages" data-bind="foreach: games">
       <li class="page" data-bind="if: visibility">
         <div class="pageLeft">
-          <h2 data-bind="text: title"></h2>
-          <p data-bind="text: status"></p>
-          <p>Genre: </p>
-          <p class="genre inline" data-bind="text: genre"></p>
-          <p>Created by </p>
-          <p class="company inline" data-bind="text: company"></p>
-          <p>Role: </p>
-          <p class="role inline" data-bind="text: role"></p>
-          <p>Engine: </p>
-          <p class="engine inline" data-bind="text: engine"></p>
-          <p>Team Size: </p>
-          <p class="team_size inline" data-bind="text: team_size"></p>
+          <div class="columns">
+            <div class="leftinfo">
+              <h2 data-bind="text: title"></h2>
+              <p data-bind="text: status"></p>
+              <p>Genre: </p>
+              <p class="genre inline" data-bind="text: genre"></p>
+            </div>
+            <div class="rightinfo">
+              <p>Created by </p>
+              <p class="company inline" data-bind="text: company"></p>
+              <p>Role: </p>
+              <p class="role inline" data-bind="text: role"></p>
+              <p>Engine: </p>
+              <p class="engine inline" data-bind="text: engine"></p>
+              <p>Team Size: </p>
+              <p class="team_size inline" data-bind="text: team_size"></p>
+            </div>
+          </div>
           <p></p>
           <p data-bind="text: description"></p>
           <p></p>
           <p data-bind="text: work_done"></p>
+          <div class="links">
+            <h3>Links:</h3>
+            <div data-bind="if: weblink">
+              <a data-bind="attr: {href: weblink}">Webpage</a>
+            </div>
+            <div data-bind="if: android">
+              <a data-bind="attr: {href: android}" class="android"><img src="img/android.png" alt="Android App Store"></a>
+            </div>
+            <div data-bind="if: apple">
+              <a data-bind="attr: {href: apple}" class="apple"><img src="img/apple.svg" alt="Apple App Store"></a>
+            </div>
+          </div>
         </div>
         <div class="shots" data-bind="foreach: screeenshots">
           <img data-bind="attr: { src: $data }"></a>
         </div>
-        <div class="links">
-          <h3>Links:</h3>
-          <div data-bind="if: weblink">
-            <a data-bind="attr: {href: weblink}">Webpage</a>
-          </div>
-          <div data-bind="if: android">
-            <a data-bind="attr: {href: android}" class="android"><img src="img/android.png" alt="Android App Store"></a>
-          </div>
-        </div>
-        <div data-bind="if: apple">
-          <a data-bind="attr: {href: apple}" class="apple"><img src="img/apple.svg" alt="Apple App Store"></a>
-        </div>
+
       </li>
     </ul>
 
@@ -125,14 +133,14 @@
           </div>
         </div>-->
 
-    <div class="side">
+    <div class="about">
       <img src="img/Jason.png" alt="Jason Gertner" id="avatar">
       <div id="info_links">
         <a href="https://twitter.com/jasoonmargoon" class="outlinks"><img class="outlinks" src="img/Twitter_Logo_Blue.png" alt="twitter"></a>
         <a href="https://jasoonmargoon.itch.io/" class="outlinks"><img class="outlinks" src="img/itchio-black.png" alt="itch.io"></a>
         <a href="JasonGertnerResume.pdf" target="_blank" id="pdf_link">Resume</a>
       </div>
-      <p id="about">
+      <p id="aboutme">
         Jason is a game developer who strives to create more and more games, and experiment with new and unique mechanics. He has created mobile games such as Cloud Bashers and Burning Wood, and is currently working on Skelattack and Spell Strike.
         He
         is currently working towards a BA in Interactive Media Design at Becker College.
