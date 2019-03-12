@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jason Gertner</title>
+  <!--Trying out some fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&text=Jason%20Gertner%20Game%20Developer" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <script src="js/lib/knockout-3.4.2.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body class="FullFlex">
+  <header class="header">
+    <div id="top">
+      <h1 id="name">Jason Gertner</h1>
+      <h2 id="job">Game Developer</h2>
+    </div>
+    <div id="second">
+      <a href="#" data-bind="click: frontpage">Projects</a>
+      <a href="#" data-bind="click: about">About</a>
+      <!--make function-->
+    </div>
+  </header>
+
+  <main class="content">
+    <ul class="front" data-bind="foreach: games">
+      <li class="projectGroup">
+        <a href="#" class="main_img" data-bind="click: $parent.visiblenow"> <img data-bind="attr: { src: main_img }"></a>
+        <div class="hoverDetails">
+          <p class="topright" data-bind="text: title"></p>
+          <p class="bottomleft" data-bind="text: company"></p>
+        </div>
+      <li>
+    </ul>
+
+    <ul class="projectPages" data-bind="foreach: games">
+      <li class="page" data-bind="if: visibility">
+        <div class="pageLeft">
+          <h2 data-bind="text: title"></h2>
+          <p data-bind="text: status"></p>
+          <p>Genre: </p>
+          <p class="genre inline" data-bind="text: genre"></p>
+          <p>Created by </p>
+          <p class="company inline" data-bind="text: company"></p>
+          <p>Role: </p>
+          <p class="role inline" data-bind="text: role"></p>
+          <p>Engine: </p>
+          <p class="engine inline" data-bind="text: engine"></p>
+          <p>Team Size: </p>
+          <p class="team_size inline" data-bind="text: team_size"></p>
+          <p></p>
+          <p data-bind="text: description"></p>
+          <p></p>
+          <p data-bind="text: work_done"></p>
+        </div>
+        <div class="shots" data-bind="foreach: screeenshots">
+          <img data-bind="attr: { src: $data }"></a>
+        </div>
+        <div class="links">
+          <h3>Links:</h3>
+          <div data-bind="if: weblink">
+            <a data-bind="attr: {href: weblink}">Webpage</a>
+          </div>
+          <div data-bind="if: android">
+            <a data-bind="attr: {href: android}" class="android"><img src="img/android.png" alt="Android App Store"></a>
+          </div>
+        </div>
+        <div data-bind="if: apple">
+          <a data-bind="attr: {href: apple}" class="apple"><img src="img/apple.svg" alt="Apple App Store"></a>
+        </div>
+      </li>
+    </ul>
+
+
+    <!--<h2 id="feature">Projects</h2>
+        <div class="sjg_container"><flex container>
+          <div class="project">
+            <img class="game_pics" src="img/burning_wood_icon.png" alt="Burning Wood">
+            <p>Shattered Journal Games</p>
+            <p class="game_name">Burning Wood</p>
+            <p class="position">Creator / Developer</p>
+            <div class="links">
+              <a href="https://itunes.apple.com/gb/app/burning-wood/id1209788363" class="apple"><img src="img/apple.svg" alt="Apple App Store"></a>
+              <a href="https://play.google.com/store/apps/details?id=com.Shattered_Journal_Games.BURNING_WOOD" class="android"><img src="img/android.png" alt="Android App Store"></a>
+            </div>
+          </div>
+          <div class="project">
+            <img class="game_pics" src="img/cloud_bashers_icon.png" alt="Cloud Bashers">
+            <p>Shattered Journal Games</p>
+            <p class="game_name">Cloud Bashers</p>
+            <p class="position">Creator / Developer</p>
+            <div class="links">
+              <a href="https://itunes.apple.com/us/app/cloud-bashers/id1227986698" class="apple"><img src="img/apple.svg" alt="Apple App Store"></a>
+              <a href="https://play.google.com/store/apps/details?id=com.Shattered_Journal_Games.Cloud_Bashers" class="android"><img src="img/android.png" alt="Android App Store"></a>
+            </div>
+          </div>
+
+          <div class="project">
+            <img class="game_pics" src="img/Leap_A_Head_icon.png" alt="Leap A Head">
+            <p>MassDiGI</p>
+            <p class="game_name">Leap A Head</p>
+            <p class="position">Programmer / QA</p>
+            <div class="links">
+              <a href="https://itunes.apple.com/us/app/leap-a-head/id1252716743?mt=8" class="apple"><img src="img/apple.svg" alt="Apple App Store"></a>
+              <a href="https://play.google.com/store/apps/details?id=com.MassDiGI.LeapAHead" class="android"><img src="img/android.png" alt="Android App Store"></a>
+            </div>
+          </div>
+          <div class="project">
+            <img class="game_pics" src="img/skelattack-interview-preview.jpg" alt="Skelattack Pic">
+            <p>Ukuza</p>
+            <p class="game_name">Skelattack</p>
+            <p class="position">Programmer</p>
+            <a href="http://skelattack.com">Click Here</a>
+          </div>
+          <div class="project">
+            <img class="game_pics" src="img/spellStrikeBanner.png" alt="Spell Strike Pic">
+            <p>MassDiGI</p>
+            <p class="game_name">Spell Strike</p>
+            <p class="position">Lead Programmer</p>
+          </div>
+        </div>-->
+
+    <div class="side">
+      <img src="img/Jason.png" alt="Jason Gertner" id="avatar">
+      <div id="info_links">
+        <a href="https://twitter.com/jasoonmargoon" class="outlinks"><img class="outlinks" src="img/Twitter_Logo_Blue.png" alt="twitter"></a>
+        <a href="https://jasoonmargoon.itch.io/" class="outlinks"><img class="outlinks" src="img/itchio-black.png" alt="itch.io"></a>
+        <a href="JasonGertnerResume.pdf" target="_blank" id="pdf_link">Resume</a>
+      </div>
+      <p id="about">
+        Jason is a game developer who strives to create more and more games, and experiment with new and unique mechanics. He has created mobile games such as Cloud Bashers and Burning Wood, and is currently working on Skelattack and Spell Strike.
+        He
+        is currently working towards a BA in Interactive Media Design at Becker College.
+      </p>
+    </div>
+  </main>
+</body>
+
+</html>
