@@ -70,6 +70,19 @@ header {
   z-index: -1;
 }
 
+.hoverDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.bottomleft {
+  align-self: flex-start;
+}
+
+/*end front page*/
+
 .game_name,
 .position {
   margin: .25em;
