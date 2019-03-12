@@ -66,10 +66,6 @@ header {
   display: inline;
 }
 
-.main_img {
-  z-index: -1;
-}
-
 .hoverDetails {
   display: flex;
   flex-direction: column;
