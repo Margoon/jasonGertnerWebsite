@@ -63,14 +63,14 @@ var games = [
     role: "Programmer/QA",
     engine: "Unity",
     team_size: "6+",
-    description: "",
-    work_done: "",
-    main_img: "img/",
+    description: "Leap into a mysterious ancient temple as a treasure loving snake! Challenge your puzzle solving talents and test your dexterity with this new puzzle-platformer. Do you have what it takes to dodge the dangers hidden within the temple? And more importantly, how much treasure can you carry?",
+    work_done: "Programmer on Leap A Head, a puzzle game revolving around a snake jumping from block to block to reach a gem. I was part of Leap Long, a separate team dedicated to prototyping and analyzing additional features for future updates. We successfully brainstormed over one hundred ideas, as well as developed a brainstorming process for future teams. I was also QA for the team, and made sure every feature was bug free. Currently the team is now implementing those features into the base game.",
+    main_img: "img/Leap_A_Head_icon.png",
     screeenshots: [""],
     links: true,
     weblink: "",
-    android: "",
-    apple: "",
+    android: "https://play.google.com/store/apps/details?id=com.MassDiGI.LeapAHead",
+    apple: "https://itunes.apple.com/us/app/leap-a-head/id1252716743?mt=8",
     visibility: false
   }
 ];
