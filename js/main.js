@@ -9,4 +9,4 @@ function ViewModel() {
   });
 }
 
-ko.applyBindings(new ViewModel());
+ko.applyBindings(ViewModel());

@@ -9,9 +9,9 @@
   <!--Trying out some fonts -->
   <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&text=Jason%20Gertner%20Game%20Developer" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
-  <script src="js/lib/knockout-3.4.2.js"></script>
+  <script src="js/lib/knockout-3.5.0.js"></script>
   <script src="js/data.js"></script>
-  <script src="js/main.js"></script>
+  <!--<script src="js/main.js"></script>-->
   <link rel="stylesheet" href="css/main.css">
 </head>
 
@@ -31,7 +31,7 @@
   <main class="content">
     <ul class="front" data-bind="foreach: games">
       <li class="projectGroup">
-        <a href="#" class="main_img" data-bind="click: $parent.visiblenow"> <img data-bind="attr: { src: main_img }"></a>
+        <a href="#" class="main_img" data-bind="click: $parent.visiblenow"><img data-bind="attr: { src: main_img }"></a>
         <div class="hoverDetails">
           <p class="topright" data-bind="text: title"></p>
           <p class="bottomleft" data-bind="text: company"></p>
@@ -86,7 +86,7 @@
 
 
     <!--<h2 id="feature">Projects</h2>
-      
+
           <div class="project">
             <img class="game_pics" src="img/skelattack-interview-preview.jpg" alt="Skelattack Pic">
             <p>Ukuza</p>
