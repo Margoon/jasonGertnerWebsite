@@ -22,23 +22,29 @@
       <h2 id="job">Game Developer</h2>
     </div>
     <div id="second">
-      <a href="#" data-bind="click: frontpage">Projects</a>
-      <a href="#" data-bind="click: about">About</a>
+      <a href="index.html">Projects</a>
+      <a href="about.html">About</a>
       <!--make function-->
     </div>
   </header>
 
   <main class="content">
-    <ul class="front" data-bind="foreach: games">
-      <li class="projectGroup">
-        <a href="#" class="main_img" data-bind="click: $parent.visiblenow"><img data-bind="attr: { src: main_img }"></a>
+    <div class="front">
+      <!--repeat for each project-->
+      <div class="projectGroup">
+        <a href="<!--game title-->.html" class="main_img"><img src="<!--image address-->"></a>
         <div class="hoverDetails">
-          <p class="topright" data-bind="text: title"></p>
-          <p class="bottomleft" data-bind="text: company"></p>
+          <p>
+            <!--game title-->
+          </p>
+          <p>
+            <!--company-->
+          </p>
         </div>
-      </li>
-    </ul>
+      </div>
+    </div>
 
+    <!--
     <ul class="projectPages" data-bind="foreach: games">
       <li class="page" data-bind="if: visibility">
         <div class="pageLeft">
@@ -85,7 +91,7 @@
     </ul>
 
 
-    <!--<h2 id="feature">Projects</h2>
+    <h2 id="feature">Projects</h2>
 
           <div class="project">
             <img class="game_pics" src="img/skelattack-interview-preview.jpg" alt="Skelattack Pic">
@@ -101,20 +107,6 @@
             <p class="position">Lead Programmer</p>
           </div>
         </div>-->
-
-    <div class="about">
-      <img src="img/Jason.png" alt="Jason Gertner" id="avatar">
-      <div id="info_links">
-        <a href="https://twitter.com/jasoonmargoon" class="outlinks"><img class="outlinks" src="img/Twitter_Logo_Blue.png" alt="twitter"></a>
-        <a href="https://jasoonmargoon.itch.io/" class="outlinks"><img class="outlinks" src="img/itchio-black.png" alt="itch.io"></a>
-        <a href="JasonGertnerResume.pdf" target="_blank" id="pdf_link">Resume</a>
-      </div>
-      <p id="aboutme">
-        Jason is a game developer who strives to create more and more games, and experiment with new and unique mechanics. He has created mobile games such as Cloud Bashers and Burning Wood, and is currently working on Skelattack and Spell Strike.
-        He
-        is currently working towards a BA in Interactive Media Design at Becker College.
-      </p>
-    </div>
   </main>
 
   <script src="js/data.js"></script>
