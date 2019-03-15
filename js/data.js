@@ -29,7 +29,7 @@ var viewModel = {
       role: "Programmer/Designer",
       engine: "GameMaker: Studio",
       team_size: "2",
-      description: " Can YOU burn all the wood? How far can you get? Are you SKILLED enough to dodge the raindrops? See how long you can last, and beat your friends’s scores!!",
+      description: "Can YOU burn all the wood? How far can you get? Are you SKILLED enough to dodge the raindrops? See how long you can last, and beat your friends’s scores!!",
       work_done: "Burning Wood was a small game I made in a game jam in 2 hours in February 2017 in my senior year of high school. I thought the idea was good enough to put it on phones, so I revamped it over the course of a couple weeks. This was my first game released anywhere, and I learned a lot through just the experience of making it and releasing it. Tons of people at my school were playing it, so many that some people didn't even know I made it! I always like to use Burning Wood as an example of how simple games can be fun and easy for anyone to jump in and play.",
       main_img: "img/burningWoodIcon512.png",
       screeenshots: ["img/screenIOS1.png", "img/screenIOS2.png", "img/screenIOS3.png.png", "img/screenIOS3.png.png"],

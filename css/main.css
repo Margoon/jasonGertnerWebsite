@@ -57,6 +57,10 @@ header {
   max-width: 100%;
 }
 
+.front {
+  width: 80%;
+}
+
 /* front page */
 .inline {
   display: inline;
