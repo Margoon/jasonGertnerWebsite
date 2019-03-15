@@ -62,8 +62,11 @@ header {
 }
 
 /* front page */
-.inline {
-  display: inline;
+
+.projectGroup {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
 }
 
 .hoverDetails {
@@ -71,6 +74,12 @@ header {
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-end;
+  z-index: 1;
+}
+
+.main_img {
+  z-index: -1;
+  width: 100%;
 }
 
 .bottomleft {
