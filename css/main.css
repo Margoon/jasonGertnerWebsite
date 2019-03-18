@@ -13,7 +13,7 @@ html {
 body {
   /* Background pattern from Subtle Patterns */
   background: url("../img/gaming-pattern.png");
-    max-width: 100%;
+  max-width: 100%;
 }
 
 /* header*/
@@ -48,7 +48,7 @@ header {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-    min-width: 100%;
+  min-width: 100%;
 }
 
 #name {
@@ -112,13 +112,13 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-    max-width: 95%;
+  max-width: 95%;
 }
 
 .pageLeft {
   display: flex;
   flex-direction: column;
-    max-width: inherit;
+  max-width: inherit;
 }
 
 .columns {
@@ -129,14 +129,12 @@ header {
 
 .links {
   display: flex;
-    flex-wrap: wrap;
+  flex-wrap: wrap;
   flex-direction: row;
-    justify-content: center;
+  justify-content: center;
   align-items: center;
   max-width: inherit;
 }
-
-
 
 .shots {
   display: flex;
@@ -190,8 +188,6 @@ header {
   align-items: center;
 }
 
-
-
 @media screen and (min-width: 800px) {
   #top {
     display: flex;
@@ -239,9 +235,10 @@ header {
     flex-direction: row;
     justify-content: space-evenly;
   }
-    .links {
-        align-self: center;
-    }
+
+  .links {
+    align-self: center;
+  }
 
   .shots {
     max-height: 200vh;
@@ -250,6 +247,6 @@ header {
 
   .shot {
     max-height: 60vh;
-    max-width: 95%; 
+    max-width: 95%;
   }
 }
