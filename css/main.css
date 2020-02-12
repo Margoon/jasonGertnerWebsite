@@ -142,6 +142,27 @@ header {
   align-items: center;
 }
 
+.shotsV {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.shotsE {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.shotHeaderV {
+  display: flex;
+}
+
+.shotHeaderV h3
+{
+    margin-left: 32%;
+}
+
 .about {
   display: none;
 }
@@ -240,8 +261,18 @@ header {
     align-self: center;
   }
 
-  .shots {
+  .shotsV {
     max-height: 200vh;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+    
+  .shotHeaderV {
+    flex-direction: column;
+  }
+    
+  .shotsE {
+    max-height: 800vh;
     flex-wrap: wrap;
   }
 
