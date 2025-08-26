@@ -31,20 +31,6 @@ layout: main
 
     {{ content }}
 
-    {% if page.description %}
-        <div class="game-description">
-            <h2>Description</h2>
-            <p>{{ page.description }}</p>
-        </div>
-    {% endif %}
-
-    {% if page.thoughts %}
-        <div class="game-thoughts">
-            <h2>My Thoughts</h2>
-            <p>{{ page.thoughts }}</p>
-        </div>
-    {% endif %}
-
     <div class="game-links">
         {% include links.html links=page.links black=true %}
     </div>
