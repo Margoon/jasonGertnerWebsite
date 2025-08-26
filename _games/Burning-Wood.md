@@ -24,7 +24,15 @@ links:
 
 ---
 
-## Descroption
+  <p><strong>Released:</strong> February 2017 </p>
+  <p><strong>Genre:</strong> Arcade </p>
+  <p><strong>Created by:</strong> Shattered Journal Games </p>
+  <p><strong>Role:</strong> Producer/Programmer/Designer </p>
+  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Team Size:</strong> 2 </p>
+  <p><strong>Installs:</strong> +500 </p>
+
+## Description
 Can YOU burn all the wood? How far can you get? Are you SKILLED enough to dodge the raindrops? See how long you can last, and beat your friends’s scores!!
 
 ## Thoughts
