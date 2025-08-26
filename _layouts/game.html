@@ -31,6 +31,20 @@ layout: main
 
     {{ content }}
 
+    {% if page.description %}
+        <div class="game-description">
+            <h2>Description</h2>
+            <p>{{ page.description }}</p>
+        </div>
+    {% endif %}
+
+    {% if page.thoughts %}
+        <div class="game-thoughts">
+            <h2>My Thoughts</h2>
+            <p>{{ page.thoughts }}</p>
+        </div>
+    {% endif %}
+
     <div class="game-links">
         {% include links.html links=page.links black=true %}
     </div>
@@ -41,24 +55,6 @@ layout: main
                 <img class="game-screenshot" src="{{ screenshot }}" alt="{{ page.title }}" />
             {% endfor %}
         </div>
-    {% endif %}
-
-    {% if page.team %}
-        <h2>Team Behind {{ page.title }}</h2>
-        <div class="game-team">
-            {% for member in page.team %}
-                {% assign team_member = site.team | where: "name", member.name | first %}
-                {% if team_member == null %}
-                    {% assign team_member = site.team | where: "name", "Unknown" | first %}
-                {% endif %}
-                <div class="game-team-member">
-                    <img src="{{ team_member.image }}" alt="{{ member.name }}" />
-                    <div class="game-team-member-info">
-                        <h3>{{ member.name }}</h3>
-                        <p>{{ member.role }}</p>
-                    </div>
-                </div>
-            {% endfor %}
     {% endif %}
 
 </div>
