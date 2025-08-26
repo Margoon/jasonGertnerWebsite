@@ -1,0 +1,73 @@
+// Tooltip Container
+.tooltip {
+    position: relative;
+    display: inline;
+}
+
+// // Tooltip text
+// .tooltip .tooltiptext {
+//     width: 140px;
+//     top: 150%;
+//     left: 50%;
+//     margin-left: -70px; /* Use half of the width (120/2 = 60), to center the tooltip */
+//     background-color: $bg2;
+//     color: $text1;
+//     text-align: center;
+//     padding: 5px 0;
+//     border-radius: 6px;
+//     opacity: 1;
+//     transition: opacity 0.2s;
+
+//     // Position the tooltip text
+//     position: absolute;
+//     z-index: 10;
+// }
+
+// .tooltip:hover .tooltiptext {
+//     opacity: 1;
+// }
+
+// // Draw the arrow
+// .tooltip .tooltiptext::after {
+//     content: "";
+//     position: absolute;
+//     bottom: 100%;
+//     left: 50%;
+//     margin-left: -5px;
+//     border-width: 5px;
+//     border-style: solid;
+//     border-color: transparent transparent black transparent;
+// }
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    opacity: 0;
+    width: 140px;
+    background-color: $bg;
+    color: $text;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 120%;
+    left: 50%;
+    margin-left: -70px;
+    transition: all 0.2s;
+}
+  
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent $bg transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }

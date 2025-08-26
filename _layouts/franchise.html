@@ -1,0 +1,15 @@
+---
+layout: main
+---
+
+<div style="text-align: center;">
+    <img class="franchise-logo" src="{{ page.logo }}" alt="{{ page.title }}"/>
+</div>
+
+<div style="text-align: center;">
+    {{ content }}
+</div>
+
+<div class="all-games">
+  {% include games.html franchise=page.title %}
+</div>

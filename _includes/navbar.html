@@ -1,0 +1,17 @@
+<div class="navbar">
+
+    <div class="site-info">
+        <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/branding/shattered_logo_white.png" alt="{{ site.name }}" />
+        </a>
+    </div>
+
+    <nav>
+        <a href="{{ site.baseurl }}/games">Games</a>
+        {% if site.posts.size > 0 %}
+            <a href="{{ site.baseurl }}/news">News</a>
+        {% endif %}
+        <a href="{{ site.baseurl }}/about">About</a>
+        <a href="{{ site.baseurl }}/contact">Contact</a>
+    </nav>
+</div>

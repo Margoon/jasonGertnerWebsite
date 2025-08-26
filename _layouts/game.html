@@ -1,0 +1,64 @@
+---
+layout: main
+---
+
+<br>
+
+<div class="game-banner">
+    {% if page.logo %}
+        <img src="{{ page.logo }}" alt="{{ page.title }}" />
+    {% else %}
+        <h1>{{ page.title }}</h1>
+    {% endif %}
+</div>
+
+<div class="game-content">
+
+    {% if page.trailer %}
+        <div class="trailer">
+            <iframe width="560" height="315"
+            src="{{ page.trailer }}"frameborder="0" 
+            allowfullscreen></iframe>
+        </div>
+    {% endif %}
+
+    {% if page.franchise %}
+        <div class="franchise-link">
+            {% assign franchise = site.franchises | where: "title", page.franchise | first %}
+            <a href="{{ franchise.url }}">See more from the {{ page.franchise }} franchise >></a>
+        </div>
+    {% endif %}
+
+    {{ content }}
+
+    <div class="game-links">
+        {% include links.html links=page.links black=true %}
+    </div>
+
+    {% if page.screenshots %}
+        <div class="game-screenshots">
+            {% for screenshot in page.screenshots %}
+                <img class="game-screenshot" src="{{ screenshot }}" alt="{{ page.title }}" />
+            {% endfor %}
+        </div>
+    {% endif %}
+
+    {% if page.team %}
+        <h2>Team Behind {{ page.title }}</h2>
+        <div class="game-team">
+            {% for member in page.team %}
+                {% assign team_member = site.team | where: "name", member.name | first %}
+                {% if team_member == null %}
+                    {% assign team_member = site.team | where: "name", "Unknown" | first %}
+                {% endif %}
+                <div class="game-team-member">
+                    <img src="{{ team_member.image }}" alt="{{ member.name }}" />
+                    <div class="game-team-member-info">
+                        <h3>{{ member.name }}</h3>
+                        <p>{{ member.role }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+    {% endif %}
+
+</div>

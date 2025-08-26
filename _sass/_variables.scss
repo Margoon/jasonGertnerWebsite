@@ -1,0 +1,66 @@
+
+//
+// VARIABLES
+//
+
+@font-face {
+  font-family: fntMerelThin;
+  src: url(assets/fonts/merel_thin.otf);
+}
+
+@font-face {
+  font-family: fntMerelLight;
+  src: url(assets/fonts/merel_light.otf);
+}
+
+@font-face {
+  font-family: fntMerel;
+  src: url(assets/fonts/merel.otf);
+}
+
+@font-face {
+  font-family: fntMerelMedium;
+  src: url(assets/fonts/merel_medium.otf);
+}
+
+@font-face {
+  font-family: fntMerelBold;
+  src: url(assets/fonts/merel_bold.otf);
+}
+
+// Site colours
+$bg: #ffffff;
+$text: #000000;
+$highlight: #8465EC;
+$link: #E06C9F;
+
+// Font stacks
+$fntBody: fntMerel;
+$fntHeader: fntMerel;
+$fntBig: fntMerel;
+
+// Dark/Light Mode Theming
+@mixin themed() {
+  @each $theme, $map in $themes {
+    .theme--#{$theme} & {
+      $theme-map: () !global;
+      @each $key, $submap in $map {
+        $value: map-get(map-get($themes, $theme), '#{$key}');
+        $theme-map: map-merge($theme-map, ($key: $value)) !global;
+      }
+      @content;
+      $theme-map: null !global;
+    }
+  }
+}
+
+@function t($key) {
+  @return map-get($theme-map, $key);
+}
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}

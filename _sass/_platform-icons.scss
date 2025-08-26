@@ -1,0 +1,123 @@
+// Icon imports
+$icoGithub: url(/assets/platform_logos/github_white.png);
+$icoGithubBlack: url(/assets/platform_logos/github_black.png);
+
+$icoTwitter: url(/assets/platform_logos/twitter_white.png);
+$icoTwitterBlack: url(/assets/platform_logos/twitter_black.png);
+
+$icoBluesky: url(/assets/platform_logos/bluesky_white.png);
+$icoBlueskyBlack: url(/assets/platform_logos/bluesky_black.png);
+
+$icoInstagram: url(/assets/platform_logos/instagram_white.png);
+$icoInstagramBlack: url(/assets/platform_logos/instagram_black.png);
+
+$icoFacebook: url(/assets/platform_logos/facebook_white.png);
+$icoFacebookBlack: url(/assets/platform_logos/facebook_black.png);
+
+$icoSteam: url(/assets/platform_logos/steam_white.png);
+$icoSteamBlack: url(/assets/platform_logos/steam_black.png);
+
+$icoItch: url(/assets/platform_logos/itch_white.png);
+$icoItchBlack: url(/assets/platform_logos/itch_black.png);
+
+$icoNewgrounds: url(/assets/platform_logos/newgrounds_white.png);
+$icoNewgroundsBlack: url(/assets/platform_logos/newgrounds_black.png);
+
+$icoGamejolt: url(/assets/platform_logos/gamejolt_white.png);
+$icoGamejoltBlack: url(/assets/platform_logos/gamejolt_black.png);
+
+$icoGxgames: url(/assets/platform_logos/gxgames_white.png);
+$icoGxgamesBlack: url(/assets/platform_logos/gxgames_black.png);
+
+$icoTwitch: url(/assets/platform_logos/twitch_white.png);
+$icoTwitchBlack: url(/assets/platform_logos/twitch_black.png);
+
+$icoDiscord: url(/assets/platform_logos/discord_white.png);
+$icoDiscordBlack: url(/assets/platform_logos/discord_black.png);
+
+$icoYoutube: url(/assets/platform_logos/youtube_white.png);
+$icoYoutubeBlack: url(/assets/platform_logos/youtube_black.png);
+
+$icoYoutube: url(/assets/platform_logos/youtube_white.png);
+$icoYoutubeBlack: url(/assets/platform_logos/youtube_black.png);
+
+$icoTiktok: url(/assets/platform_logos/tiktok_white.png);
+$icoTiktokBlack: url(/assets/platform_logos/tiktok_black.png);
+
+$icoWeb: url(/assets/platform_logos/web_white.png);
+$icoWebBlack: url(/assets/platform_logos/web_black.png);
+
+$icoBandcamp: url(/assets/platform_logos/bandcamp_white.png);
+$icoBandcampBlack: url(/assets/platform_logos/bandcamp_black.png);
+
+$icoSpotify: url(/assets/platform_logos/spotify_white.png);
+$icoSpotifyBlack: url(/assets/platform_logos/spotify_black.png);
+
+$icoApple: url(/assets/platform_logos/apple_white.png);
+$icoAppleBlack: url(/assets/platform_logos/apple_black.png);
+
+$icoGooglePlay: url(/assets/platform_logos/google_play_white.png);
+$icoGooglePlayBlack: url(/assets/platform_logos/google_play_black.png);
+
+$icoNapster: url(/assets/platform_logos/napster_white.png);
+$icoNapsterBlack: url(/assets/platform_logos/napster_black.png);
+
+$icoXbox: url(/assets/platform_logos/xbox_white.png);
+$icoXboxBlack: url(/assets/platform_logos/xbox_black.png);
+
+
+.platform-icon {
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    display: inline-block;
+  
+    &.github        { background-image: $icoGithub }
+    &.twitter       { background-image: $icoTwitter }
+    &.bluesky       { background-image: $icoBluesky }
+    &.instagram       { background-image: $icoInstagram }
+    &.facebook       { background-image: $icoFacebook }
+    &.youtube       { background-image: $icoYoutube }
+    &.tiktok        { background-image: $icoTiktok }
+    &.steam         { background-image: $icoSteam }
+    &.itch          { background-image: $icoItch }
+    &.newgrounds    { background-image: $icoNewgrounds }
+    &.gamejolt      { background-image: $icoGamejolt }
+    &.gxgames       { background-image: $icoGxgames }
+    &.twitch        { background-image: $icoTwitch }
+    &.discord       { background-image: $icoDiscord }
+    &.web           { background-image: $icoWeb }
+    &.bandcamp      { background-image: $icoBandcamp; }
+    &.spotify       { background-image: $icoSpotify; }
+    &.apple         { background-image: $icoApple; }
+    &.googlePlay    { background-image: $icoGooglePlay; }
+    &.xbox          { background-image: $icoXbox; }
+
+    &.icon-black {
+      &.github        { background-image: $icoGithubBlack; }
+      &.twitter       { background-image: $icoTwitterBlack; }
+      &.bluesky       { background-image: $icoBlueskyBlack }
+      &.instagram     { background-image: $icoInstagramBlack }
+      &.facebook      { background-image: $icoFacebookBlack }
+      &.youtube       { background-image: $icoYoutubeBlack; }
+      &.tiktok        { background-image: $icoTiktokBlack; }
+      &.steam         { background-image: $icoSteamBlack; }
+      &.itch          { background-image: $icoItchBlack; }
+      &.newgrounds    { background-image: $icoNewgroundsBlack; }
+      &.gamejolt      { background-image: $icoGamejoltBlack; }
+      &.gxgames       { background-image: $icoGxgamesBlack; }
+      &.twitch        { background-image: $icoTwitchBlack; }
+      &.discord       { background-image: $icoDiscordBlack; }
+      &.web           { background-image: $icoWebBlack; }
+      &.bandcamp      { background-image: $icoBandcampBlack; }
+      &.spotify       { background-image: $icoSpotifyBlack; }
+      &.apple         { background-image: $icoAppleBlack; }
+      &.googlePlay    { background-image: $icoGooglePlayBlack; }
+      &.xbox          { background-image: $icoXboxBlack; }
+    }
+  
+    @include mobile {
+      width: 32px;
+      height: 32px;
+    }
+  }

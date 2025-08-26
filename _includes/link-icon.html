@@ -1,0 +1,12 @@
+{% if include.link %}
+    <div class="tooltip">
+        <a href="{{ include.link }}">
+            {% if include.black %}
+                <i class="platform-icon icon-black {{ include.icon }}"></i>
+            {% else %}
+                <i class="platform-icon {{ include.icon }}"></i>
+            {% endif %}
+        </a>
+        <span class="tooltiptext">{{ include.tooltip }}</span>
+    </div>
+{% endif %}

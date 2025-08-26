@@ -1,0 +1,87 @@
+---
+---
+
+@import "text-stroke";
+@import "variables";
+@import "tooltips";
+@import "platform-icons";
+@import "navbar";
+@import "footer";
+@import "games-list";
+@import "game";
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: $bg;
+    font-family: $fntBody;
+    color: $text;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.page-header {
+    width: 100%;
+    text-align: center;
+    font-family: fntMerelBold;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.header-image {
+    width: 100%;
+    max-width: 400px;
+    padding: 32px;
+}
+
+$pageMargins: 24px;
+.main {
+    max-width: 900px; //740px;
+    width: 100%;
+    height: 100%;
+}
+
+.main-content {
+    margin-left: $pageMargins;
+    margin-right: $pageMargins;
+}
+
+.main-logo {
+    width: 100%;
+    max-width: 200px;
+    padding: 32px;
+}
+
+.franchise-logo {
+    height: 200px;
+    padding: 32px;
+}
+
+.photo-collage {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    @include mobile {
+        flex-direction: column;
+    }
+    img {
+        width: 32%;
+        height: auto;
+        @include mobile {
+            width: 100%;
+            height: auto
+        }
+    }
+}
