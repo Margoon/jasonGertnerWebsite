@@ -25,18 +25,18 @@ screenshots:
 
 links:
     steam: "https://store.steampowered.com/app/1955340/Super_Raft_Boat_Together/"
-
-team:
-    - name: Jason Gertner
-      role: Production, Code & Design
-    - name: Chris West
-      role: Art, Design & SFX
-    - name: James Currier
-      role: Music
-    - name: Yukon Wainczak
-      role: Programming
-    
-
+  
 ---
 
+## Info
+  <p><strong>Released:</strong> September 17th 2025 </p>
+  <p><strong>Genre:</strong> Arcade </p>
+  <p><strong>Created by:</strong> Shattered Journal Games </p>
+  <p><strong>Role:</strong> Producer/Programmer </p>
+  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Team Size:</strong> 5 </p>
+
+## Description
 The world's been flooded. All you have left is your Super Raft Boat… and your friends! Work together to expand your raft while fending off the strangely violent (and wealthy??) creatures of the sea in this multiplayer roguelike shooter. Will your crew survive and reach the Final Island?
+
+## Thoughts

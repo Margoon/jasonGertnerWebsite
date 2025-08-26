@@ -20,15 +20,18 @@ screenshots:
 links:
     steam: "https://store.steampowered.com/app/3631010/Shuffle_Sword/"
 
-team:
-    - name: Jason Gertner
-      role: Production, Code & Design
-    - name: happysquared
-      role: Art
-    - name: Somepoint Sound
-      role: Audio
-    
-
 ---
 
+## Info
+  <p><strong>Released:</strong> In Development</p>
+  <p><strong>Genre:</strong> Deckbuilding Rougelite </p>
+  <p><strong>Created by:</strong> Shattered Journal Games </p>
+  <p><strong>Role:</strong> Producer/Programmer/Designer </p>
+  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Team Size:</strong> 3 </p>
+
+## Description
 Shuffle Sword is a dark fantasy deck-builder roguelite. Fight your way through the blade cave, find different sword and magic cards to utilize, and prove yourself to the sword masters. They may have some strong swords, but nothing beats the Shuffle Sword Style!
+
+## Thoughts
+Game is still in progress, more thoughts later!

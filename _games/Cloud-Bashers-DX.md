@@ -27,22 +27,18 @@ links:
     newgrounds: "https://www.newgrounds.com/portal/view/project/1683541"
     gxgames: "https://gx.games/games/waamsl/cloud-bashers-dx/"
 
-team:
-    - name: Jason Gertner
-      role: Code & Design
-    - name: Anthony Iovino
-      role: Art
-    - name: Nick Gilmartin
-      role: Music
-    - name: Carson Kompon
-      role: Code
-    - name: Joe Benson
-      role: Art
-    - name: Yukon Wainczak
-      role: Polish/Juice
-    - name: Chris West
-      role: Additional Art 
-
 ---
 
-So, you wanna bash some clouds huh? Go through 10 worlds each with different cloud types and a boss that's out to take you down. Bash them all with your trusty bat and take back the skies!
+## Info
+  <p><strong>Released:</strong> June 30th 2021 </p>
+  <p><strong>Genre:</strong> Arcade </p>
+  <p><strong>Created by:</strong> Shattered Journal Games </p>
+  <p><strong>Role:</strong> Producer/Programmer/Designer </p>
+  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Team Size:</strong> 5 </p>
+
+## Description
+So, you wanna bash some clouds huh? Well you've come to the right place! Go through 10 worlds each with different cloud types and a boss that's out to take you down. Bash them all with your trusty bat and take back the skies!
+
+## Thoughts
+Cloud Bashers was originally a game I released at the beginning of my first year of college. For a while it was my biggest game, and people called me the "Cloud Bashers Guy". It helped me get jobs, and was my first big game release! Now, with the help of some friends, we've made a deluxe version! It fixes a lot of balancing problems of the original, and adds quality of life updates, visual improvements, and a Daily mode (on the Steam version).
