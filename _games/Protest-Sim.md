@@ -14,7 +14,7 @@ screenshots:
     - "/assets/games/protest_sim/protestShot3.PNG"
 
 links:
-    googleplay: "https://play.google.com/store/apps/details?id=com.MassDigi.Protest"
+    googlePlay: "https://play.google.com/store/apps/details?id=com.MassDigi.Protest"
     apple: "https://itunes.apple.com/us/app/protest-sim/id1403863545"
 
 ---

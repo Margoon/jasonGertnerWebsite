@@ -16,7 +16,7 @@ screenshots:
     - "/assets/games/spell_strike/spellStrikeShot6.PNG"
 
 links:
-    googleplay: "https://play.google.com/store/apps/details?id=com.massdigi.spellstrike"
+    googlePlay: "https://play.google.com/store/apps/details?id=com.massdigi.spellstrike"
     apple: "https://itunes.apple.com/us/app/spell-strike/id1404004294"
 
 ---

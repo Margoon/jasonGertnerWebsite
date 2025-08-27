@@ -10,12 +10,12 @@ buttonColor: "#F9A11B"
 trailer: "https://www.youtube.com/embed/MYhTtlb8e8E"
 
 screenshots:
-    - "/assets/games/leap_a_head/leapAHeadShot1.png"
-    - "/assets/games/leap_a_head/leapAHeadShot2.png"
-    - "/assets/games/leap_a_head/leapAHeadShot3.png"
+    - "/assets/games/leap_a_head/leapAHeadShot1.jpg"
+    - "/assets/games/leap_a_head/leapAHeadShot2.jpg"
+    - "/assets/games/leap_a_head/leapAHeadShot3.jpg"
 
 links:
-    googleplay: "https://play.google.com/store/apps/details?id=com.MassDiGI.LeapAHead"
+    googlePlay: "https://play.google.com/store/apps/details?id=com.MassDiGI.LeapAHead"
     apple: "https://itunes.apple.com/us/app/leap-a-head/id1252716743?mt=8"
 
 ---

@@ -22,13 +22,6 @@ layout: main
         </div>
     {% endif %}
 
-    {% if page.franchise %}
-        <div class="franchise-link">
-            {% assign franchise = site.franchises | where: "title", page.franchise | first %}
-            <a href="{{ franchise.url }}">See more from the {{ page.franchise }} franchise >></a>
-        </div>
-    {% endif %}
-
     {{ content }}
 
     <div class="game-links">
