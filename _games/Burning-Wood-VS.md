@@ -6,7 +6,7 @@ date: 2025-08-21
 
 franchise: "Burning Wood"
 
-squareIcon: "/assets/games/last_slice/lastSliceIcon512.png"
+squareIcon: "/assets/games/burning_wood_vs/burningWoodVSIcon.png"
 logo: "/assets/games/burning_wood_vs/logo.png"
 background: "/assets/games/burning_wood_vs/burningBackground.png"
 buttonColor: "#5E8CF7"
