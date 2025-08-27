@@ -1,6 +1,6 @@
 ---
 layout: game
-title: Lego Flame: Power Within!
+title: Lego Flame Power Within!
 permalink: /games/lego-flame/
 date: 2021-02-27
 
