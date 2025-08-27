@@ -1,3 +1,14 @@
-<a href="{{ site.baseurl }}{{ include.game.url }}">
-        <img src="{{ include.game.squareIcon }}" alt="{{ include.game.title }}" />
+<a href="{{site.baseurl}}{{include.game.url}}">
+    <div class="button-container">
+        <div
+            class="game-button"
+            {% if include.game.buttonColor %}
+                style="filter: drop-shadow(0px 6px 0px {{include.game.buttonColor | color_to_rgb}} );"
+            {% endif %}
+        >
+
+            <img src="{{include.game.squareIcon}}" />
+            <div class="game-button-background game-button-{{include.id}}" style="background-image: url({{include.game.background}});">            
+        </div>
+    </div>
 </a>
