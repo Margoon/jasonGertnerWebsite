@@ -84,3 +84,29 @@
         mask-image: url(/assets/buttons/game_button_06_mask.png);
     }
 }
+
+.projectGroup {
+  max-width: 60%;
+  margin: .5em;
+  border: 1px solid #a2a2a2;
+  -webkit-box-shadow: 0 0 14px 0 black;
+  -moz-box-shadow: 0 0 14px 0 black;
+  box-shadow: 0 0 14px 0 black;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.main_img {
+  width: 75%;
+  max-width: 75%;
+  max-height: 75%;
+}
+
+.projectGroup:hover {
+  background-color: black;
+}
+
+.main_img:hover {
+  opacity: 0.8;
+}
