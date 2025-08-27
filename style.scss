@@ -85,3 +85,29 @@ $pageMargins: 24px;
         }
     }
 }
+
+.projectGroup {
+  max-width: 80%;
+  margin: .5em;
+  border: 1px solid #a2a2a2;
+  -webkit-box-shadow: 0 0 14px 0 black;
+  -moz-box-shadow: 0 0 14px 0 black;
+  box-shadow: 0 0 14px 0 black;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.main_img {
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.projectGroup:hover {
+  background-color: black;
+}
+
+.main_img:hover {
+  opacity: 0.8;
+}
