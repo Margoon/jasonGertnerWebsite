@@ -29,8 +29,8 @@ links:
 ## Info
   <p><strong>Released:</strong> April 26th 2021 </p>
   <p><strong>Genre:</strong> Arcade </p>
-  <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Published by:</strong> MassDigi </p>
+  <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Role:</strong> Producer/Programmer </p>
   <p><strong>Engine:</strong> Unity </p>
   <p><strong>Team Size:</strong> 3 </p>

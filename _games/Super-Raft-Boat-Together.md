@@ -32,6 +32,7 @@ links:
 ## Info
   <p><strong>Released:</strong> July 23rd 2023 </p>
   <p><strong>Genre:</strong> Co-op Multiplayer Roguelite </p>
+  <p><strong>Published by:</strong> Brace Yourself Games </p>
   <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Role:</strong> Producer/Programmer </p>
   <p><strong>Engine:</strong> Unity </p>
