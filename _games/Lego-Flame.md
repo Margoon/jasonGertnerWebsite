@@ -4,12 +4,12 @@ title: Lego Flame: Power Within!
 permalink: /games/lego-flame/
 date: 2021-02-27
 
-squareIcon: "/assets/games/last_slice/legoFlame512.png"
+squareIcon: "/assets/games/lego_flame/legoFlame512.png"
 buttonColor: "#F9A11B"
 
 screenshots:
-    - "/assets/games/last_slice/legoFlameShot1.png"
-    - "/assets/games/last_slice/legoFlameShot2.png"
+    - "/assets/games/lego_flame/legoFlameShot1.png"
+    - "/assets/games/lego_flame/legoFlameShot2.png"
 
 links:
     itch: "https://play.unity.com/mg/lego/webgl-builds-22562"

@@ -4,7 +4,7 @@ title: Skater Frog
 permalink: /games/skater-frog/
 date: 2020-02-04
 
-squareIcon: "/assets/games/last_slice/skaterFrog512.png"
+squareIcon: "/assets/games/skater_frog/skaterFrog512.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/WxkV4cxXKD8"

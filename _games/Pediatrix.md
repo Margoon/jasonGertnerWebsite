@@ -4,7 +4,7 @@ title: Pediatrix
 permalink: /games/pediatrix/
 date: 2019-04-20
 
-squareIcon: "/assets/games/last_slice/pediatrixIcon512.png"
+squareIcon: "/assets/games/pediatrix/pediatrixIcon512.png"
 buttonColor: "#F9A11B"
 
 screenshots:

@@ -4,15 +4,15 @@ title: Rushdown Revolt
 permalink: /games/rushdown-revolt/
 date: 2021-01-27
 
-squareIcon: "/assets/games/rushdown_revolt/rushdownRevoltIcon.png"
+squareIcon: "/assets/games/rushdown_revolt/rushdownRevoltIcon.jpg"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/bWjFqxDLPh0"
 
 screenshots:
-    - "/assets/games/rushdown_revolt/rushdownShot1.png"
-    - "/assets/games/rushdown_revolt/rushdownShot2.png"
-    - "/assets/games/rushdown_revolt/rushdownShot3.png"
+    - "/assets/games/rushdown_revolt/rushdownShot1.jpg"
+    - "/assets/games/rushdown_revolt/rushdownShot2.jpg"
+    - "/assets/games/rushdown_revolt/rushdownShot3.jpg"
 
 links:
     steam: "https://store.steampowered.com/app/1376070/Rushdown_Revolt/"
