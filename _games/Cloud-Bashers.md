@@ -6,7 +6,7 @@ date: 2017-09-21
 
 franchise: "Cloud Bashers"
 
-squareIcon: "/assets/games/cloud_bashers/cloudBasherIcon512.png/"
+squareIcon: "/assets/games/cloud_bashers/cloudBasherIcon512.png"
 logo: "/assets/series/Cloud_Bashers.png"
 background: "/assets/games/cloud_bashers/texture.png"
 

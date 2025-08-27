@@ -4,7 +4,7 @@ title: Unidentified Feline Obliterators
 permalink: /games/unidentified-feline-obliterators/
 date: 2025-07-04
 
-squareIcon: "/assets/games/unidentified_feline_obliterators/ufoIcon512.png/"
+squareIcon: "/assets/games/unidentified_feline_obliterators/ufoIcon512.png"
 logo: "/assets/games/unidentified_feline_obliterators/logo.png"
 background: "/assets/games/unidentified_feline_obliterators/texture.png"
 buttonColor: "#EE8FCB"

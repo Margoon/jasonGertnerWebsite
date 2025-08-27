@@ -5,7 +5,7 @@ permalink: /games/cloud-bashers-dx/
 date: 2021-06-30
 
 franchise: "Cloud Bashers"
-squareIcon: "/assets/games/cloud_bashers_dx/cloudBashersDXIcon512.png/"
+squareIcon: "/assets/games/cloud_bashers_dx/cloudBashersDXIcon512.png"
 logo: "/assets/games/cloud_bashers_dx/logo.png"
 background: "/assets/games/cloud_bashers_dx/background.png"
 buttonColor: "#5E8CF7"

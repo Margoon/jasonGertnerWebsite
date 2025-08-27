@@ -6,7 +6,7 @@ date: 2017-03-21
 
 franchise: "Burning Wood"
 
-squareIcon: "/assets/games/burning_wood/icon.png/"
+squareIcon: "/assets/games/burning_wood/icon.png"
 logo: "/assets/games/burning_wood/logo.png"
 background: "/assets/games/burning_wood/background.png"
 buttonColor: "#CC425E"

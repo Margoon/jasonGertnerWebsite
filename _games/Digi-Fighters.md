@@ -4,7 +4,7 @@ title: Digi Fighters
 permalink: /games/digi-fighters/
 date: 2021-04-25
 
-squareIcon: "/assets/games/digi_fighters/DigiFighters512.png/"
+squareIcon: "/assets/games/digi_fighters/DigiFighters512.png"
 logo: "/assets/games/digi_fighters/Digi_Fighters_Logo.png"
 background: "/assets/games/digi_fighters/digi_fighters_background.png"
 buttonColor: "#FC064C"

@@ -4,7 +4,7 @@ title: Shuffle Sword
 permalink: /games/shuffle-sword/
 date: 2025-7-15
 
-squareIcon: "/assets/games/last_slice/lastSliceIcon512.png/"
+squareIcon: "/assets/games/last_slice/lastSliceIcon512.png"
 logo: "/assets/games/shuffle_sword/logo.png"
 background: "/assets/games/shuffle_sword/texture.png"
 buttonColor: "#EE8FCB"

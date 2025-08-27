@@ -4,7 +4,7 @@ title: Floaty Fighters
 permalink: /games/floaty-fighters/
 date: 2019-12-06
 
-squareIcon: "/assets/games/floaty_fighters/floatyFightersIcon512.png/"
+squareIcon: "/assets/games/floaty_fighters/floatyFightersIcon512.png"
 logo: "/assets/games/floaty_fighters/logo.png"
 background: "/assets/games/floaty_fighters/texture2.png"
 buttonColor: "#28CCDF"

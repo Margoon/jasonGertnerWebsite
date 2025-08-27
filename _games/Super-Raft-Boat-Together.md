@@ -6,7 +6,7 @@ date: 2023-07-23
 
 franchise: "Super Raft Boat"
 
-squareIcon: "/assets/games/super_raft_boat_together/superRaftBoatTogether512.png/"
+squareIcon: "/assets/games/super_raft_boat_together/superRaftBoatTogether512.png"
 logo: "/assets/games/super_raft_boat_together/logo.png"
 background: "/assets/games/super_raft_boat_together/background.jpg"
 buttonColor: "#EE8FCB"
