@@ -12,7 +12,7 @@ screenshots:
     - "/assets/games/lego_flame/legoFlameShot2.png"
 
 links:
-    itch: "https://play.unity.com/mg/lego/webgl-builds-22562"
+    web: "https://play.unity.com/mg/lego/webgl-builds-22562"
 
 ---
 

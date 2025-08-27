@@ -18,6 +18,8 @@ screenshots:
 links:
     steam: "https://store.steampowered.com/app/605800/Skelattack/"
     xbox: "https://www.microsoft.com/en-us/p/skelattack/9pgjtl53nkbn"
+    switch: "https://www.nintendo.com/us/store/products/skelattack-switch/"
+    playstation: "https://store.playstation.com/en-us/product/UP0101-CUSA17789_00-SKELATTACK201719"
 
 ---
 

@@ -59,11 +59,17 @@ $icoAppleBlack: url(/assets/platform_logos/apple_black.png);
 $icoGooglePlay: url(/assets/platform_logos/google_play_white.png);
 $icoGooglePlayBlack: url(/assets/platform_logos/google_play_black.png);
 
-$icoNapster: url(/assets/platform_logos/napster_white.png);
-$icoNapsterBlack: url(/assets/platform_logos/napster_black.png);
-
 $icoXbox: url(/assets/platform_logos/xbox_white.png);
 $icoXboxBlack: url(/assets/platform_logos/xbox_black.png);
+
+$icoSwitch: url(/assets/platform_logos/switch_white.png);
+$icoSwitchBlack: url(/assets/platform_logos/switch_black.png);
+
+$icoPlaystation: url(/assets/platform_logos/playstation_white.png);
+$icoPlaystationBlack: url(/assets/platform_logos/playstation_black.png);
+
+$icoLinkedin: url(/assets/platform_logos/linkedin_white.png);
+$icoLinkedinBlack: url(/assets/platform_logos/linkedin_black.png);
 
 
 .platform-icon {
@@ -92,6 +98,9 @@ $icoXboxBlack: url(/assets/platform_logos/xbox_black.png);
     &.apple         { background-image: $icoApple; }
     &.googlePlay    { background-image: $icoGooglePlay; }
     &.xbox          { background-image: $icoXbox; }
+    &.switch        { background-image: $icoSwitch; }
+    &.playstation   { background-image: $icoPlaystation; }
+    &.linkedin      { background-image: $icoLinkedin; }
 
     &.icon-black {
       &.github        { background-image: $icoGithubBlack; }
@@ -114,6 +123,9 @@ $icoXboxBlack: url(/assets/platform_logos/xbox_black.png);
       &.apple         { background-image: $icoAppleBlack; }
       &.googlePlay    { background-image: $icoGooglePlayBlack; }
       &.xbox          { background-image: $icoXboxBlack; }
+      &.switch        { background-image: $icoSwitchBlack; }
+      &.playstation   { background-image: $icoPlaystationBlack }
+      &.linkedin      { background-image: $icoLinkedinBlack; }
     }
   
     @include mobile {
