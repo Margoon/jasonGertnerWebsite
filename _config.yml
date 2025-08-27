@@ -23,16 +23,11 @@ url: "https://shatteredjournalgames.com"
 
 # Includes an icon in the footer for each link you enter
 footer-links:
-  twitter: https://www.twitter.com/ShatteredJGames
-  bluesky: https://bsky.app/profile/shatteredjgames.bsky.social
-  instagram: https://www.instagram.com/shatteredjgames/
-  facebook: https://www.facebook.com/people/Shattered-Journal-Games/61552987569806/
-  tiktok: https://www.tiktok.com/@shatteredjournalgames
-  youtube: https://www.youtube.com/channel/UCLt7nQEMz0sDMYZDFerUMkg
-  steam: https://store.steampowered.com/publisher/ShatteredJournalGames
-  itch: https://ShatteredJournalGames.itch.io
-  newgrounds: https://ShatteredJournal.newgrounds.com
-  discord: https://discord.com/invite/7m8vJRV/
+  twitter: https://www.twitter.com/jasoonmargoon
+  bluesky: https://bsky.app/profile/jasoonmargoon.bsky.social
+  instagram: https://www.instagram.com/jasoonmargoon/
+  itch: https://jasoonmargoon.shatteredJournalGames.itch.io
+  newgrounds: https://jasoonmargoon.newgrounds.com
 
 collections:
   games:
