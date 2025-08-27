@@ -6,6 +6,7 @@ date: 2021-02-22
 
 franchise: "Super Raft Boat"
 
+squareIcon: "/assets/games/super_raft_boat_classic/superRaftBoatClassic512.png/"
 logo: "/assets/games/super_raft_boat_classic/logo.png"
 background: "/assets/games/super_raft_boat_classic/background.png"
 buttonColor: "#EE8FCB"

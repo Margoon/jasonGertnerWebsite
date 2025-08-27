@@ -4,6 +4,7 @@ title: Last Slice
 permalink: /games/last-slice/
 date: 2022-04-20
 
+squareIcon: "/assets/games/last_slice/lastSliceIcon512.png/"
 logo: "/assets/games/last_slice/logo.png"
 background: "/assets/games/last_slice/texture.png"
 buttonColor: "#F9A11B"

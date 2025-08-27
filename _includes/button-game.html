@@ -7,17 +7,8 @@
             {% endif %}
         >
 
-            <img src="/assets/buttons/game_button_0{{include.id}}.png" />
-            <div class="game-button-background game-button-{{include.id}}" style="background-image: url({{include.game.background}});">
-                <img src="{{include.game.logo}}" />
-                <div class="game-button-logo">
-                    
-                </div>
-            </div>
+            <img src= include.game.squareIcon>
             
         </div>
-        {% if include.franchise != false and include.game.links.steam %}
-                <a href="{{include.game.links.steam}}">Download {{include.game.title}} on Steam</a>
-        {% endif %}
     </div>
 </a>

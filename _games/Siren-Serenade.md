@@ -4,6 +4,7 @@ title: Siren Serenade
 permalink: /games/siren-serenade/
 date: 2019-07-09
 
+squareIcon: "/assets/games/siren_serenade/sirenSerenade512.png/"
 logo: "/assets/games/siren_serenade/logo.png"
 background: "/assets/games/siren_serenade/background.png"
 buttonColor: "#FFB879"

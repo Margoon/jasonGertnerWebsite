@@ -2,10 +2,11 @@
 layout: game
 title: Super Raft Boat Together
 permalink: /games/super-raft-boat-together/
-date: 2023-01-26
+date: 2023-07-23
 
 franchise: "Super Raft Boat"
 
+squareIcon: "/assets/games/super_raft_boat_together/superRaftBoatTogether512.png/"
 logo: "/assets/games/super_raft_boat_together/logo.png"
 background: "/assets/games/super_raft_boat_together/background.jpg"
 buttonColor: "#EE8FCB"
@@ -29,11 +30,11 @@ links:
 ---
 
 ## Info
-  <p><strong>Released:</strong> September 17th 2025 </p>
-  <p><strong>Genre:</strong> Arcade </p>
+  <p><strong>Released:</strong> July 23rd 2023 </p>
+  <p><strong>Genre:</strong> Co-op Multiplayer Roguelite </p>
   <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Role:</strong> Producer/Programmer </p>
-  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Engine:</strong> Unity </p>
   <p><strong>Team Size:</strong> 5 </p>
 
 ## Description

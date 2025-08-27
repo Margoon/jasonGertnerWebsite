@@ -4,6 +4,7 @@ title: Floaty Fighters
 permalink: /games/floaty-fighters/
 date: 2019-12-06
 
+squareIcon: "/assets/games/floaty_fighters/floatyFightersIcon512.png/"
 logo: "/assets/games/floaty_fighters/logo.png"
 background: "/assets/games/floaty_fighters/texture2.png"
 buttonColor: "#28CCDF"
@@ -60,6 +61,7 @@ Blast your foes with super sonic waves as Sotz!
 
 ## It's anyone's game, think on the fly!
 
+<p></p>
 
 ## Thoughts
 Floaty Fighters is my passion project, and it was made with a strong base of my strengths as a game dev: single screen games, free movement, and multiplayer games. I started the game alone in April 2018, and in September started to form a team to help with Art. It has been in development for a year and a half, and since it's conception I've brought it to many game dev events and either hold mini-tournaments at it's booth, or have free for alls. I've brought it to PAX East, Boston FIG, Shine, Made in MA events, and many other events. By doing this, we've been building a small community with people who enjoy the game. We also have gotten tons of feedback on what people like about the game, what people don't, and what people want added to the game. I've had a blast working on this game and making it the best it can be.
@@ -68,10 +70,10 @@ Floaty Fighters is my passion project, and it was made with a strong base of my 
 We collect data about people play the game to have hard data about when making balancing decisions. For pre-release of the game, we collected data at Boston Playcrafting Halloween Expo. Here's a graph on start, wins, and loses for each character where we only did 1v1s:
 
 <img class="shot" src="/assets/games/floaty_fighters/floatyFightersData.png">
-<div class="awards">
-<p> <strong>Awards</strong> </p>
-  <img class="award" src="/assets/games/floaty_fighters/FloatyBostonFIG.png">
-  <img class="award" src="/assets/games/floaty_fighters/FloatyMassDiGI.png">
-</div>
+
+## Awards
+
+<img class="award" src="/assets/games/floaty_fighters/FloatyBostonFIG.png">
+<img class="award" src="/assets/games/floaty_fighters/FloatyMassDiGI.png">
 
 </div>

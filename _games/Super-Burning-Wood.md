@@ -6,6 +6,7 @@ date: 2019-10-15
 
 franchise: "Burning Wood"
 
+squareIcon: "/assets/games/super_burning_wood/superBurningWoodIcon512.png/"
 logo: "/assets/games/super_burning_wood/logo.png"
 background: "/assets/games/super_burning_wood/background.png"
 buttonColor: "#CC425E"
