@@ -16,5 +16,5 @@ You can contact me at jason.gertner@gmail.com.
 </p>
 
 <p>
-    Also here's an <a href="archive.html">archive</a> of all my games.
+    Also here's an <a href="{{ site.baseurl }}/archive">archive</a> of all my games.
 </p>
