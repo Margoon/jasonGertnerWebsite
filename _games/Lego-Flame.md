@@ -18,7 +18,7 @@ links:
 ---
 
 ## Info
-  <p><strong>Released:</strong> February 27th 2022 </p>
+  <p><strong>Released:</strong> February 27th 2021 </p>
   <p><strong>Genre:</strong> Lego </p>
   <p><strong>Created by:</strong> Me and Lego </p>
   <p><strong>Role:</strong> Programmer </p>

@@ -2,7 +2,7 @@
 layout: game
 title: Super Burning Wood
 permalink: /games/super-burning-wood/
-date: 2019-10-15
+date: 2019-01-27
 archived: false
 franchise: "Burning Wood"
 
