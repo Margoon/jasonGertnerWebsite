@@ -3,6 +3,7 @@ layout: game
 title: Spell Strike
 permalink: /games/spell-strike/
 date: 2019-03-25
+archived: true
 
 squareIcon: "/assets/games/spell_strike/spellStrike512.png"
 buttonColor: "#F9A11B"

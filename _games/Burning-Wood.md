@@ -3,7 +3,7 @@ layout: game
 title: Burning Wood
 permalink: /games/burning-wood/
 date: 2017-03-21
-
+archived: true
 franchise: "Burning Wood"
 
 squareIcon: "/assets/games/burning_wood/icon.png"

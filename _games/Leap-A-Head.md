@@ -3,6 +3,7 @@ layout: game
 title: Leap A Head
 permalink: /games/leap-a-head/
 date: 2018-04-05
+archived: true
 
 squareIcon: "/assets/games/leap_a_head/Leap_A_Head_icon.png"
 buttonColor: "#F9A11B"

@@ -3,6 +3,7 @@ layout: game
 title: Skelattack
 permalink: /games/skelattack/
 date: 2020-06-02
+archived: false
 
 squareIcon: "/assets/games/skelattack/skelattackIcon512.png"
 buttonColor: "#F9A11B"

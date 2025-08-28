@@ -3,6 +3,7 @@ layout: game
 title: Neon Amazing
 permalink: /games/neon-amazing/
 date: 2021-06-21
+archived: true
 
 squareIcon: "/assets/games/neon_amazing/neonAmazingIcon512.png"
 buttonColor: "#F9A11B"

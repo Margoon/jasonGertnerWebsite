@@ -3,6 +3,7 @@ layout: game
 title: Protest Sim
 permalink: /games/protest-sim/
 date: 2019-03-14
+archived: true
 
 squareIcon: "/assets/games/protest_sim/protestIcon512.png"
 buttonColor: "#F9A11B"

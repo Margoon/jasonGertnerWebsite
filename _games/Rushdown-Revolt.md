@@ -3,6 +3,7 @@ layout: game
 title: Rushdown Revolt
 permalink: /games/rushdown-revolt/
 date: 2021-01-27
+archived: true
 
 squareIcon: "/assets/games/rushdown_revolt/rushdownRevoltIcon.jpg"
 buttonColor: "#F9A11B"

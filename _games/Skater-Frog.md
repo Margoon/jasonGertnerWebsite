@@ -3,6 +3,7 @@ layout: game
 title: Skater Frog
 permalink: /games/skater-frog/
 date: 2020-02-04
+archived: true
 
 squareIcon: "/assets/games/skater_frog/skaterFrog512.png"
 buttonColor: "#F9A11B"

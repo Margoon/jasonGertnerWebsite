@@ -3,6 +3,7 @@ layout: game
 title: Siren Serenade
 permalink: /games/siren-serenade/
 date: 2019-07-09
+archived: true
 
 squareIcon: "/assets/games/siren_serenade/sirenSerenade512.png"
 logo: "/assets/games/siren_serenade/logo.png"

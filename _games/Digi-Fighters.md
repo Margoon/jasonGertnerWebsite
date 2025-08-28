@@ -3,6 +3,7 @@ layout: game
 title: Digi Fighters
 permalink: /games/digi-fighters/
 date: 2021-04-25
+archived: true
 
 squareIcon: "/assets/games/digi_fighters/DigiFighters512.png"
 logo: "/assets/games/digi_fighters/Digi_Fighters_Logo.png"

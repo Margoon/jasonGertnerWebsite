@@ -3,7 +3,7 @@ layout: game
 title: Cloud Bashers
 permalink: /games/cloud-bashers/
 date: 2017-09-21
-
+archived: true
 franchise: "Cloud Bashers"
 
 squareIcon: "/assets/games/cloud_bashers/cloudBasherIcon512.png"

@@ -3,7 +3,7 @@ layout: game
 title: Super Burning Wood
 permalink: /games/super-burning-wood/
 date: 2019-10-15
-
+archived: false
 franchise: "Burning Wood"
 
 squareIcon: "/assets/games/super_burning_wood/superBurningWoodIcon512.png"

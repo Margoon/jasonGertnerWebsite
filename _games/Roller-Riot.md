@@ -3,6 +3,7 @@ layout: game
 title: Roller Riot
 permalink: /games/roller-riot/
 date: 2019-09-26
+archived: false
 
 squareIcon: "/assets/games/roller_riot/rollerRiotIcon512.png"
 buttonColor: "#F9A11B"

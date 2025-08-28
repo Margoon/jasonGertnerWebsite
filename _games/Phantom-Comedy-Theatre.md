@@ -3,6 +3,7 @@ layout: game
 title: Phantom Comedy Theatre
 permalink: /games/phantom-comedy-theatre/
 date: 2024-01-30
+archived: true
 
 squareIcon: "/assets/games/phantom_comedy_theatre/phantomComedyTheatreIcon512.png"
 buttonColor: "#F9A11B"

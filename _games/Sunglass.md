@@ -3,6 +3,7 @@ layout: game
 title: Sunglass
 permalink: /games/sunglass/
 date: 2020-01-19
+archived: true
 
 squareIcon: "/assets/games/sunglass/sunglassIcon512.png"
 buttonColor: "#F9A11B"
