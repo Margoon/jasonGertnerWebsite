@@ -2,7 +2,7 @@
 layout: game
 title: saeter
 permalink: /games/saeter/
-date: 2025-07-04
+date: 2024-11-01
 archived: true
 
 squareIcon: "/assets/games/saeter/saeterIcon.png"
