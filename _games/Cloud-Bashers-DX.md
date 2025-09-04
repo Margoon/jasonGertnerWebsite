@@ -3,7 +3,7 @@ layout: game
 title: Cloud Bashers DX
 permalink: /games/cloud-bashers-dx/
 date: 2021-06-30
-archived: false
+archived: true
 franchise: "Cloud Bashers"
 
 squareIcon: "/assets/games/cloud_bashers_dx/cloudBashersDXIcon512.png"
