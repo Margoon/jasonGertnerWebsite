@@ -42,3 +42,4 @@ links:
 The world's been flooded. All you have left is your Super Raft Boat… and your friends! Work together to expand your raft while fending off the strangely violent (and wealthy??) creatures of the sea in this multiplayer roguelike shooter. Will your crew survive and reach the Final Island?
 
 ## Thoughts
+For some extended thoughts, check out my post on <a href="https://jasoonmargoon.newgrounds.com/news/post/1464640">Newgrounds</a>!

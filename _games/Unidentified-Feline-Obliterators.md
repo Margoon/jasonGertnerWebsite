@@ -20,7 +20,11 @@ screenshots:
     - "/assets/games/unidentified_feline_obliterators/Screenshot5.jpg"
 
 links:
-    steam: "https://store.steampowered.com/app/3390730/Unidentified_Feline_Obliterators/"  
+    steam: "https://store.steampowered.com/app/3390730/Unidentified_Feline_Obliterators/"
+    itch: "https://shatteredjournalgames.itch.io/unidentified-feline-obliterators"
+    newgrounds: "https://www.newgrounds.com/portal/view/810124"
+    gxgames: "https://gx.games/games/2bn7jj/unidentified-feline-obliterators-lite/"
+
 
 ---
 
