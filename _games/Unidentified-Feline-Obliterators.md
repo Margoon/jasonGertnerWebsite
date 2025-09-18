@@ -10,7 +10,7 @@ logo: "/assets/games/unidentified_feline_obliterators/logo.png"
 background: "/assets/games/unidentified_feline_obliterators/texture.png"
 buttonColor: "#EE8FCB"
 
-trailer: "https://www.youtube.com/embed/hCU9KzHx8p8"
+trailer: "https://www.youtube.com/embed/zkDRgEWMJ7Y"
 
 screenshots:
     - "/assets/games/unidentified_feline_obliterators/Screenshot1.jpg"
