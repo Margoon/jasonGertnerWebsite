@@ -11,6 +11,8 @@ logo: "/assets/games/burning_wood_vs/logo.png"
 background: "/assets/games/burning_wood_vs/burningBackground.png"
 buttonColor: "#5E8CF7"
 
+trailer: "https://www.youtube.com/embed/uFHwHixKnnY"
+
 screenshots:
     - "/assets/games/burning_wood_vs/burningWoodVersusShot1.png"
     - "/assets/games/burning_wood_vs/burningWoodVersusShot2.png"
