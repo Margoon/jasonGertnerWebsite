@@ -10,7 +10,7 @@ logo: "/assets/games/summon_island/logo.png"
 background: "/assets/games/summon_island/texture.png"
 buttonColor: "#EE8FCB"
 
-trailer: "https://www.youtube.com/embed/AnndygVCwHE"
+trailer: "https://www.youtube.com/embed/n2ZKRJjuof8"
 
 screenshots:
     - "/assets/games/summon_island/summonIslandShot1.png"
