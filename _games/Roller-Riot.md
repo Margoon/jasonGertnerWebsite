@@ -20,6 +20,7 @@ links:
     steam: "https://store.steampowered.com/app/1255380/Roller_Riot/"
     googlePlay: "https://play.google.com/store/apps/details?id=com.MassDiGI.Banoffee"
     apple: "https://apps.apple.com/us/app/roller-riot/id1468113228"
+    newgrounds: "https://www.newgrounds.com/portal/view/808383"
 
 ---
 
@@ -53,6 +54,6 @@ Overall, I'm really happy with what we made, and I couldn't have asked for a bet
 After the summer, I continued work on Roller Riot as the producer. Now instead of focusing on building the game, we were looking at how people played the game. We wanted to understand why people would stop playing, and how we could get them to play longer and multiple times. A big thing we focused on was fixing the game's difficulty curve. We had four ad campaigns for Roller Riot, and each time we'd change something about the game. For the first campaign we just launched the game to see the current state of the game. On the second campaign we changed how enemies indicate when they can be hit. Before when they were in range they'd get blue afterimage-like effects. For this campaign we changed it to radars appearing on their heads, which helped a lot. For the third campaign we're changing which waves enemies will spawn on, because we're worried the player is getting overwhelmed too fast. Here are all the graphs:
 
 <p>     
-<img class="shot" src="../img/roller_riot/rollerRiotCampaign1.png">
-<img class="shot" src="../img/roller_riot/rollerRiotCampaign2.png">
+<img class="shot" src="/assets/games/roller_riot/rollerRiotCampaign1.png">
+<img class="shot" src="/assets/games/roller_riot/rollerRiotCampaign2.png">
 </p>
