@@ -26,6 +26,7 @@ links:
     itch: "https://jasoonmargoon.itch.io/super-raft-boat-classic"
     newgrounds: "https://www.newgrounds.com/portal/view/781907"
     gxgames: "https://gx.games/games/qcg3e9/super-raft-boat-classic/"
+    armorgames: "https://armorgames.com/super-raft-boat-classic-game/19496"
 
 ---
 

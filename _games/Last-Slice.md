@@ -22,6 +22,7 @@ screenshots:
 links:
     steam: "https://store.steampowered.com/app/1219540/Last_Slice/"
     itch: "https://jasoonmargoon.itch.io/last-slice"
+    newgrounds: "https://www.newgrounds.com/portal/view/814005"
 
 ---
 

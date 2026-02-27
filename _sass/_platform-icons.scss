@@ -29,6 +29,9 @@ $icoGamejoltBlack: url(/assets/platform_logos/gamejolt_black.png);
 $icoGxgames: url(/assets/platform_logos/gxgames_white.png);
 $icoGxgamesBlack: url(/assets/platform_logos/gxgames_black.png);
 
+$icoArmorgames: url(/assets/platform_logos/armorgames.png);
+$icoArmorgamesBlack: url(/assets/platform_logos/armorgames.png);
+
 $icoTwitch: url(/assets/platform_logos/twitch_white.png);
 $icoTwitchBlack: url(/assets/platform_logos/twitch_black.png);
 
@@ -90,6 +93,7 @@ $icoLinkedinBlack: url(/assets/platform_logos/linkedin_black.png);
     &.newgrounds    { background-image: $icoNewgrounds }
     &.gamejolt      { background-image: $icoGamejolt }
     &.gxgames       { background-image: $icoGxgames }
+    &.armorgames     { background-image: $icoArmorgames }
     &.twitch        { background-image: $icoTwitch }
     &.discord       { background-image: $icoDiscord }
     &.web           { background-image: $icoWeb }
@@ -115,6 +119,7 @@ $icoLinkedinBlack: url(/assets/platform_logos/linkedin_black.png);
       &.newgrounds    { background-image: $icoNewgroundsBlack; }
       &.gamejolt      { background-image: $icoGamejoltBlack; }
       &.gxgames       { background-image: $icoGxgamesBlack; }
+      &.armorgames    { background-image: $icoArmorgamesBlack; }
       &.twitch        { background-image: $icoTwitchBlack; }
       &.discord       { background-image: $icoDiscordBlack; }
       &.web           { background-image: $icoWebBlack; }

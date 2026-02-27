@@ -22,6 +22,7 @@ screenshots:
 
 links:
     itch: "https://shatteredjournalgames.itch.io/burning-wood-vs"
+    discord: "https://discord.com/discovery/applications/1474632884148240486"
 
 ---
 

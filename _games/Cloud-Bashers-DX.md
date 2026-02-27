@@ -27,6 +27,8 @@ links:
     itch: "https://jasoonmargoon.itch.io/cloud-bashers-dx"
     newgrounds: "https://www.newgrounds.com/portal/view/project/1683541"
     gxgames: "https://gx.games/games/waamsl/cloud-bashers-dx/"
+    armorgames: "https://armorgames.com/cloud-bashers-dx-game/19495"
+    discord: "https://discord.com/discovery/applications/1476752549326622881"
 
 ---
 
