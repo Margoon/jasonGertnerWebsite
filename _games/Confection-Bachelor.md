@@ -13,8 +13,7 @@ screenshots:
     -  "/assets/games/confection_bachelor/confection_bachelor_2.png"
     -  "/assets/games/confection_bachelor/confection_bachelor_3.png"
     -  "/assets/games/confection_bachelor/confection_bachelor_4.png"
-    -  "/assets/games/confection_bachelor/confection_bachelor_5.png"
--     
+    -  "/assets/games/confection_bachelor/confection_bachelor_5.png"     
 
 links:
     itch: "https://jasoonmargoon.itch.io/confection-bachelor"

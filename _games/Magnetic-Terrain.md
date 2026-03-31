@@ -6,15 +6,14 @@ date: 2019-03-02
 archived: true
 
 squareIcon: "/assets/games/magnetic_terrain/magneticTerrain512.png"
-logo: "/assets/games/magnetic_terrain/logo.png"
 buttonColor: "#EE8FCB"
+logo: "/assets/games/magnetic_terrain/logo.png"
 
 screenshots:
     - "/assets/games/magnetic_terrain/magnetic_terrain_1.png"
     - "/assets/games/magnetic_terrain/magnetic_terrain_2.png"
     - "/assets/games/magnetic_terrain/magnetic_terrain_3.png"
-    - "/assets/games/magnetic_terrain/magnetic_terrain_4.png"
--     
+    - "/assets/games/magnetic_terrain/magnetic_terrain_4.png"     
 
 links:
     itch: "https://jasoonmargoon.itch.io/magnetic-terrain"
