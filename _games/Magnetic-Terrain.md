@@ -11,9 +11,9 @@ buttonColor: "#EE8FCB"
 
 screenshots:
     - "/assets/games/magnetic_terrain/magnetic_terrain_1.png"
-    -  "/assets/games/magnetic_terrain/magnetic_terrain_2.png"
-    -  "/assets/games/magnetic_terrain/magnetic_terrain_3.png"
-    -  "/assets/games/magnetic_terrain/magnetic_terrain_4.png"
+    - "/assets/games/magnetic_terrain/magnetic_terrain_2.png"
+    - "/assets/games/magnetic_terrain/magnetic_terrain_3.png"
+    - "/assets/games/magnetic_terrain/magnetic_terrain_4.png"
 -     
 
 links:
