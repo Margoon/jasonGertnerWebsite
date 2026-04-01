@@ -6,6 +6,7 @@ date: 2024-11-01
 archived: true
 
 squareIcon: "/assets/games/saeter/saeterIcon.png"
+logo: "/assets/games/saeter/saeterIcon.png"
 buttonColor: "#EE8FCB"
 
 screenshots:

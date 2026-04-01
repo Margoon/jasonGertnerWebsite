@@ -6,6 +6,7 @@ date: 2026-02-16
 archived: true
 
 squareIcon: "/assets/games/confection_bachelor/confectionBachelor512.png"
+logo: "/assets/games/confection_bachelor/logo.png"
 buttonColor: "#EE8FCB"
 
 screenshots:
