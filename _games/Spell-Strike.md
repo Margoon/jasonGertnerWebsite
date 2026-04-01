@@ -4,7 +4,7 @@ title: Spell Strike
 permalink: /games/spell-strike/
 date: 2019-03-25
 archived: true
-showTitle: true
+showTitle: false
 
 squareIcon: "/assets/games/spell_strike/spellStrike512.png"
 logo: "/assets/games/spell_strike/logo.png"

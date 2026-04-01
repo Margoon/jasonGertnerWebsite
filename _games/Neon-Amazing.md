@@ -24,7 +24,7 @@ links:
 ## Info
   <p><strong>Released:</strong> June 21st 2021 </p>
   <p><strong>Genre:</strong> Platformer Time Attack </p>
-  <p><strong>Created by:</strong> A Game Jam Squad </p>
+  <p><strong>Created by:</strong> Game Jam Squad </p>
   <p><strong>Role:</strong> Programmer </p>
   <p><strong>Engine:</strong> GameMaker </p>
   <p><strong>Team Size:</strong> 5 </p>

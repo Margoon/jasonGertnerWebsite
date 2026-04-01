@@ -27,7 +27,7 @@ links:
   <p><strong>Released:</strong> February 16th 2026 </p>
   <p><strong>Genre:</strong> Visual Novel </p>
   <p><strong>Created by:</strong> Me </p>
-  <p><strong>Role:</strong> Programmer </p>
+  <p><strong>Role:</strong> Everything </p>
   <p><strong>Engine:</strong> GameMaker </p>
   <p><strong>Team Size:</strong> 1 </p>
 

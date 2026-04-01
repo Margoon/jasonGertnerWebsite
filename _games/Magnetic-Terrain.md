@@ -25,7 +25,7 @@ links:
   <p><strong>Released:</strong> Cancelled </p>
   <p><strong>Genre:</strong> Arcade </p>
   <p><strong>Created by:</strong> Shattered Journal Games </p>
-  <p><strong>Role:</strong> Programmer </p>
+  <p><strong>Role:</strong> Programmer/Designer </p>
   <p><strong>Engine:</strong> GameMaker </p>
   <p><strong>Team Size:</strong> 3 </p>
 

@@ -4,9 +4,10 @@ title: Leap A Head
 permalink: /games/leap-a-head/
 date: 2018-04-05
 archived: true
-showTitle: true
+showTitle: false
 
 squareIcon: "/assets/games/leap_a_head/Leap_A_Head_icon.png"
+logo: "/assets/games/leap_a_head/logo.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/MYhTtlb8e8E"
