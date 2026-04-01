@@ -4,10 +4,10 @@ title: Rushdown Revolt
 permalink: /games/rushdown-revolt/
 date: 2021-01-27
 archived: true
-showTitle: true
+showTitle: false
 
 squareIcon: "/assets/games/rushdown_revolt/rushdownRevoltIcon.jpg"
-logo: "/assets/games/rushdown_revolt/rushdownRevoltIcon.jpg"
+logo: "/assets/games/rushdown_revolt/logo.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/bWjFqxDLPh0"

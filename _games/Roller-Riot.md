@@ -7,7 +7,7 @@ archived: false
 showTitle: true
 
 squareIcon: "/assets/games/roller_riot/rollerRiotIcon512.png"
-logo: "/assets/games/roller_riot/rollerRiotIcon512.png"
+logo: "/assets/games/roller_riot/logo.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/GxEqPNBImyw"

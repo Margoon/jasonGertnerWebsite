@@ -7,7 +7,7 @@ archived: true
 showTitle: true
 
 squareIcon: "/assets/games/spell_strike/spellStrike512.png"
-logo: "/assets/games/spell_strike/spellStrike512.png"
+logo: "/assets/games/spell_strike/logo.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/mDl-pZZGE6U"

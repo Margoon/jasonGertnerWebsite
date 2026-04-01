@@ -7,7 +7,6 @@ archived: true
 showTitle: true
 
 squareIcon: "/assets/games/leap_a_head/Leap_A_Head_icon.png"
-logo: "/assets/games/leap_a_head/Leap_A_Head_icon.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/MYhTtlb8e8E"
