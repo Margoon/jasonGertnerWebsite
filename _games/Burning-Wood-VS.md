@@ -4,6 +4,7 @@ title: Burning Wood VS
 permalink: /games/burning-wood-versus/
 date: 2025-08-21
 archived: true
+showTitle: false
 franchise: "Burning Wood"
 
 squareIcon: "/assets/games/burning_wood_vs/burningWoodVSIcon.png"

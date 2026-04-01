@@ -4,6 +4,7 @@ title: Floaty Fighters
 permalink: /games/floaty-fighters/
 date: 2019-12-06
 archived: false
+showTitle: false
 
 squareIcon: "/assets/games/floaty_fighters/floatyFightersIcon512.png"
 logo: "/assets/games/floaty_fighters/logo.png"

@@ -4,6 +4,7 @@ title: Unidentified Feline Obliterators
 permalink: /games/unidentified-feline-obliterators/
 date: 2025-07-04
 archived: false
+showTitle: false
 
 squareIcon: "/assets/games/unidentified_feline_obliterators/ufoIcon512.png"
 logo: "/assets/games/unidentified_feline_obliterators/logo.png"

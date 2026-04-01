@@ -4,8 +4,10 @@ title: Skater Frog
 permalink: /games/skater-frog/
 date: 2020-02-04
 archived: true
+showTitle: false
 
 squareIcon: "/assets/games/skater_frog/skaterFrog512.png"
+logo: "/assets/games/skater_frog/skaterFrog512.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/WxkV4cxXKD8"

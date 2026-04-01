@@ -4,8 +4,10 @@ title: Sunglass
 permalink: /games/sunglass/
 date: 2020-01-19
 archived: true
+showTitle: true
 
 squareIcon: "/assets/games/sunglass/sunglassIcon512.png"
+logo: "/assets/games/sunglass/sunglassIcon512.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/DlgV66wGaO0"

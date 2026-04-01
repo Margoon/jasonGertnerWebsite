@@ -4,8 +4,10 @@ title: Eye Hate Hell
 permalink: /games/eye-hate-hell/
 date: 2021-11-18
 archived: true
+showTitle: true
 
 squareIcon: "/assets/games/eye_hate_hell/eyeHateHellIcon.png"
+logo: "/assets/games/eye_hate_hell/eyeHateHellIcon.png"
 buttonColor: "#F9A11B"
 
 screenshots:

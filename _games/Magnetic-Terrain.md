@@ -4,6 +4,7 @@ title: Magnetic Terrain
 permalink: /games/magnetic-terrain/
 date: 2018-03-02
 archived: true
+showTitle: false
 
 squareIcon: "/assets/games/magnetic_terrain/magneticTerrain512.png"
 buttonColor: "#EE8FCB"

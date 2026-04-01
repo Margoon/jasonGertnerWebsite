@@ -4,8 +4,10 @@ title: Spell Strike
 permalink: /games/spell-strike/
 date: 2019-03-25
 archived: true
+showTitle: true
 
 squareIcon: "/assets/games/spell_strike/spellStrike512.png"
+logo: "/assets/games/spell_strike/spellStrike512.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/mDl-pZZGE6U"

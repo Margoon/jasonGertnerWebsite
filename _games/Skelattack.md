@@ -4,8 +4,10 @@ title: Skelattack
 permalink: /games/skelattack/
 date: 2020-06-02
 archived: false
+showTitle: true
 
 squareIcon: "/assets/games/skelattack/skelattackIcon512.png"
+logo: "/assets/games/skelattack/skelattackIcon512.png"
 buttonColor: "#F9A11B"
 
 trailer: "https://www.youtube.com/embed/k_Zpza0rTDE"

@@ -4,6 +4,7 @@ title: Super Raft Boat Classic
 permalink: /games/super-raft-boat-classic/
 date: 2021-02-22
 archived: false
+showTitle: false
 franchise: "Super Raft Boat"
 
 squareIcon: "/assets/games/super_raft_boat_classic/superRaftBoatClassic512.png"

@@ -4,9 +4,10 @@ title: Confection Bachelor
 permalink: /games/confection-bachelor/
 date: 2026-02-16
 archived: true
+showTitle: false
 
 squareIcon: "/assets/games/confection_bachelor/confectionBachelor512.png"
-logo: "/assets/games/confection_bachelor/logo.png"
+logo: "/assets/games/confection_bachelor/confectionBachelor512.png"
 buttonColor: "#EE8FCB"
 
 screenshots:

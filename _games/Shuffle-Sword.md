@@ -4,6 +4,7 @@ title: Shuffle Sword
 permalink: /games/shuffle-sword/
 date: 2025-7-15
 archived: false
+showTitle: false
 
 squareIcon: "/assets/games/shuffle_sword/shuffleIcon.png"
 logo: "/assets/games/shuffle_sword/logo.png"
