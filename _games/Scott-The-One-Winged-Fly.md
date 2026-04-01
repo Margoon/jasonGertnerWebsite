@@ -1,6 +1,6 @@
 ---
 layout: game
-title: Scott: The One Winged Fly
+title: Scott The One Winged Fly
 permalink: /games/scott-the-one-winged-fly
 date: 2018-09-23
 archived: true
