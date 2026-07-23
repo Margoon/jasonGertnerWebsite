@@ -2,7 +2,7 @@
 layout: game
 title: Burning Wood
 permalink: /games/burning-wood/
-date: 2017-03-21
+date: 2017-02-21
 archived: true
 showTitle: false
 franchise: "Burning Wood"
