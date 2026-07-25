@@ -20,7 +20,7 @@ screenshots:
 links:
     newgrounds: "https://www.newgrounds.com/portal/view/916107"
     itch: "https://jasoonmargoon.itch.io/phantom-comedy-theatre"
-
+    gxgames: "https://gx.games/games/sks6qw/phantom-comedy-theatre/"
 ---
 
 ## Info

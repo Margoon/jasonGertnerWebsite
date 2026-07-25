@@ -18,8 +18,8 @@ screenshots:
 
 links:
     itch: "https://jasoonmargoon.itch.io/saeter"  
-    newgrounds: https://www.newgrounds.com/portal/view/954546
-    gxgames: https://gx.games/games/goih6m/saeter/
+    newgrounds: "https://www.newgrounds.com/portal/view/954546"
+    gxgames: "https://gx.games/games/goih6m/saeter/"
 
 ---
 
