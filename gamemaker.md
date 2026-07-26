@@ -7,7 +7,7 @@ permalink: /gamemaker/
 <h1 class="page-header">GameMaker</h1>
 
 <div class="all-games">
-{% if game.engine == "gamemaker" %}
-  {% include archive.html franchise=false %}
+{% if gamemaker.engine == "gamemaker" %}
+  {% include gamemaker.html franchise=false %}
 {% endif %}
 </div>
