@@ -29,7 +29,7 @@ links:
   <p><strong>Genre:</strong> Puzzle </p>
   <p><strong>Created by:</strong> MassDigi </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 7 </p>
 
 ## Description

@@ -28,7 +28,7 @@ links:
   <p><strong>Genre:</strong> Action/Party Brawler </p>
   <p><strong>Created by:</strong> Puppet Fiasco </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 3 </p>
 
 ## Description

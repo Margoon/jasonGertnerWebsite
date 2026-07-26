@@ -31,7 +31,7 @@ links:
   <p><strong>Genre:</strong> Deckbuilding Rougelite </p>
   <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Role:</strong> Producer/Programmer/Designer </p>
-  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/gamemaker/">GameMaker</a> </p>
   <p><strong>Team Size:</strong> 3 </p>
 
 ## Description

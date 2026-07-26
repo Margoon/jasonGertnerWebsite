@@ -30,7 +30,7 @@ links:
   <p><strong>Genre:</strong> Arcade </p>
   <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Role:</strong> Producer/Programmer/Designer </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 5 </p>
 
 ## Description

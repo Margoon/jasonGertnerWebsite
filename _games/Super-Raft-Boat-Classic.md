@@ -37,7 +37,7 @@ links:
   <p><strong>Genre:</strong> Roguelite </p>
   <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/gamemaker/">GameMaker</a> </p>
   <p><strong>Team Size:</strong> 4 </p>
 
 ## Description

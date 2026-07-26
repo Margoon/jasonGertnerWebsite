@@ -28,7 +28,7 @@ links:
   <p><strong>Genre:</strong> Comedy Arcade </p>
   <p><strong>Created by:</strong> Game Jam Duo </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 2 </p>
 
 ## Description

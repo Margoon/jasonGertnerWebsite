@@ -33,7 +33,7 @@ links:
   <p><strong>Published by:</strong> Konami </p>
   <p><strong>Created by:</strong> Ukuza </p>
   <p><strong>Role:</strong> Programmer/Designer </p>
-  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/gamemaker/">GameMaker</a> </p>
   <p><strong>Team Size:</strong> 10+ </p>
 
 ## Description

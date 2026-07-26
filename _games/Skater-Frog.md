@@ -29,7 +29,7 @@ links:
   <p><strong>Genre:</strong> Auto Runner </p>
   <p><strong>Created by:</strong> Gnarvana Studios </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 8 </p>
 
 ## Description

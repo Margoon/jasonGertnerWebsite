@@ -28,7 +28,7 @@ links:
   <p><strong>Genre:</strong> Platform Fighter </p>
   <p><strong>Created by:</strong> Vortex Games </p>
   <p><strong>Role:</strong> UI Programmer </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> +20 </p>
 
 ## Description

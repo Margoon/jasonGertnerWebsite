@@ -27,7 +27,7 @@ links:
   <p><strong>Genre:</strong> Top Down </p>
   <p><strong>Created by:</strong> Game Jam Squad </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/gamemaker/">GameMaker</a> </p>
   <p><strong>Team Size:</strong> 4 </p>
 
 ## Description

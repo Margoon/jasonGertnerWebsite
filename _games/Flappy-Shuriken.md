@@ -24,7 +24,7 @@ screenshots:
   <p><strong>Genre:</strong> Arcade </p>
   <p><strong>Created by:</strong> Me and the Art Club </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/gamemaker/">GameMaker</a> </p>
   <p><strong>Team Size:</strong> 5 </p>
 
 ## Description

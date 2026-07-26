@@ -25,7 +25,7 @@ links:
   <p><strong>Genre:</strong> Lego </p>
   <p><strong>Created by:</strong> Me and Lego </p>
   <p><strong>Role:</strong> Programmer </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 1 </p>
 
 ## Description

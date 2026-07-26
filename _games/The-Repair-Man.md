@@ -28,7 +28,7 @@ links:
   <p><strong>Genre:</strong> Horror Game? </p>
   <p><strong>Created by:</strong> Game Jam Squad </p>
   <p><strong>Role:</strong> Designer/Audio </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 6 </p>
 
 ## Description

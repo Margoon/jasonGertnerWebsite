@@ -29,7 +29,7 @@ links:
   <p><strong>Genre:</strong> Comedy Arcade </p>
   <p><strong>Created by:</strong> Me </p>
   <p><strong>Role:</strong> Programmer/Art/Voices </p>
-  <p><strong>Engine:</strong> GameMaker </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/gamemaker/">GameMaker</a> </p>
   <p><strong>Team Size:</strong> 1 </p>
 
 ## Description

@@ -23,7 +23,7 @@ screenshots:
   <p><strong>Genre:</strong> Serious </p>
   <p><strong>Created by:</strong> MassDigi </p>
   <p><strong>Role:</strong> Programmer/QA </p>
-  <p><strong>Engine:</strong> Unity </p>
+  <p><strong>Engine:</strong> <a href="https://jasongertner.com/unity/">Unity</a> </p>
   <p><strong>Team Size:</strong> 4 </p>
 
 ## Description
