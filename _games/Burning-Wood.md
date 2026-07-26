@@ -27,7 +27,7 @@ links:
 ---
 
 ## Info
-  <p><strong>Released:</strong> February 2017 </p>
+  <p><strong>Released:</strong> February 21st 2017 </p>
   <p><strong>Genre:</strong> Arcade </p>
   <p><strong>Created by:</strong> Shattered Journal Games </p>
   <p><strong>Role:</strong> Producer/Programmer/Designer </p>
