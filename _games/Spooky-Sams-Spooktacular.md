@@ -15,7 +15,6 @@ screenshots:
     - "/assets/games/spooky_sams_spooktacular/spookySamShot2.png"
     - "/assets/games/spooky_sams_spooktacular/spookySamShot3.png"
     - "/assets/games/spooky_sams_spooktacular/spookySamShot4.png"
-    - "/assets/games/spooky_sams_spooktacular/spookySamShot5.png"
 
 links:
     itch: "https://jasoonmargoon.itch.io/spooky-sam"
