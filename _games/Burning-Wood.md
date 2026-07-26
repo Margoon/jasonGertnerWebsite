@@ -6,6 +6,7 @@ date: 2017-02-21
 archived: true
 showTitle: false
 franchise: "Burning Wood"
+engine: "gamemaker"
 
 squareIcon: "/assets/games/burning_wood/icon.png"
 logo: "/assets/games/burning_wood/logo.png"

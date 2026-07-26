@@ -5,6 +5,7 @@ permalink: /games/phantom-comedy-theatre/
 date: 2024-01-30
 archived: true
 showTitle: false
+engine: "gamemaker"
 
 squareIcon: "/assets/games/phantom_comedy_theatre/phantomComedyTheatreIcon512.png"
 logo: "/assets/games/phantom_comedy_theatre/phantomComedyTheatreIcon512.png"

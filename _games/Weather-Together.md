@@ -5,6 +5,7 @@ permalink: /games/weather-together/
 date: 2017-03-12
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/weather_together/weatherTogetherIcon512.png"
 logo: "/assets/games/weather_together/weatherTogetherIcon512.png"

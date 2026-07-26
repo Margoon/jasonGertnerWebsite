@@ -5,6 +5,7 @@ permalink: /games/kite-kyle-soars/
 date: 2017-11-05
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/kite_kyle_soars/kiteKyle512.png"
 logo: "/assets/games/kite_kyle_soars/kiteKyle512.png"

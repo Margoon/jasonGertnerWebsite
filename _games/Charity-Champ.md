@@ -5,6 +5,7 @@ permalink: /games/charity-champ/
 date: 2018-02-10
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/charity_champ/charityChampIcon512.png"
 logo: "/assets/games/charity_champ/charityChampIcon512.png"

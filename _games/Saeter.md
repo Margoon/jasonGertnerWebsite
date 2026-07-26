@@ -5,6 +5,7 @@ permalink: /games/saeter/
 date: 2024-11-01
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/saeter/saeterIcon.png"
 logo: "/assets/games/saeter/saeterIcon.png"

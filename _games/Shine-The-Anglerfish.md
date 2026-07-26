@@ -5,6 +5,7 @@ permalink: /games/shine_the_anglerfish/
 date: 2026-06-28
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/shine_the_anglerfish/shineIcon512.png"
 logo: "/assets/games/shine_the_anglerfish/shineIcon512.png"

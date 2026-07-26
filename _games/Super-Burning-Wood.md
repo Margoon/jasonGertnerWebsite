@@ -6,6 +6,7 @@ date: 2019-01-27
 archived: false
 showTitle: false
 franchise: "Burning Wood"
+engine: "unity"
 
 squareIcon: "/assets/games/super_burning_wood/superBurningWoodIcon512.png"
 logo: "/assets/games/super_burning_wood/logo.png"

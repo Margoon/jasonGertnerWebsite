@@ -5,6 +5,7 @@ permalink: /games/skater-frog/
 date: 2020-02-04
 archived: true
 showTitle: false
+engine: "unity"
 
 squareIcon: "/assets/games/skater_frog/skaterFrog512.png"
 logo: "/assets/games/skater_frog/logo.png"

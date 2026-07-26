@@ -5,6 +5,7 @@ permalink: /games/confection-bachelor/
 date: 2026-02-16
 archived: true
 showTitle: false
+engine: "gamemaker"
 
 squareIcon: "/assets/games/confection_bachelor/confectionBachelor512.png"
 logo: "/assets/games/confection_bachelor/confectionBachelor512.png"

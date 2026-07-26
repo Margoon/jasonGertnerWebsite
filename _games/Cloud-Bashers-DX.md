@@ -6,6 +6,7 @@ date: 2021-06-30
 archived: true
 showTitle: false
 franchise: "Cloud Bashers"
+engine: "gamemaker"
 
 squareIcon: "/assets/games/cloud_bashers_dx/cloudBashersDXIcon512.png"
 logo: "/assets/games/cloud_bashers_dx/logo.png"

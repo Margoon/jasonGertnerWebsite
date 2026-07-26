@@ -5,6 +5,7 @@ permalink: /games/summon-island/
 date: 2025-12-15
 archived: false
 showTitle: false
+engine: "gamemaker"
 
 squareIcon: "/assets/games/summon_island/summonIcon.png"
 logo: "/assets/games/summon_island/logo.png"

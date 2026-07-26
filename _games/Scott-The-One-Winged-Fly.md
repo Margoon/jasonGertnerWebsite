@@ -5,6 +5,7 @@ permalink: /games/scott-the-one-winged-fly
 date: 2018-09-23
 archived: true
 showTitle: true
+engine: "unity"
 
 squareIcon: "/assets/games/scott_the_one_winged_fly/scottTheOneWingedFly512.png"
 logo: "/assets/games/scott_the_one_winged_fly/scottTheOneWingedFly512.png"

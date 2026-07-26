@@ -6,6 +6,7 @@ date: 2023-07-23
 archived: false
 showTitle: false
 franchise: "Super Raft Boat"
+engine: "unity"
 
 squareIcon: "/assets/games/super_raft_boat_together/superRaftBoatTogether512.png"
 logo: "/assets/games/super_raft_boat_together/logo.png"

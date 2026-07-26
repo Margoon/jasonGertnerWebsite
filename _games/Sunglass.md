@@ -5,6 +5,7 @@ permalink: /games/sunglass/
 date: 2020-01-19
 archived: true
 showTitle: true
+engine: "unity"
 
 squareIcon: "/assets/games/sunglass/sunglassIcon512.png"
 buttonColor: "#F9A11B"

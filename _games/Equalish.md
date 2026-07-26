@@ -5,6 +5,7 @@ permalink: /games/equalish/
 date: 2026-03-15
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/equalish/equalishIcon512.png"
 logo: "/assets/games/equalish/equalishIcon512.png"

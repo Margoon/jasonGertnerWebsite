@@ -5,6 +5,7 @@ permalink: /games/skelattack/
 date: 2020-06-02
 archived: false
 showTitle: false
+engine: "gamemaker"
 
 squareIcon: "/assets/games/skelattack/skelattackIcon512.png"
 logo: "/assets/games/skelattack/logo.png"

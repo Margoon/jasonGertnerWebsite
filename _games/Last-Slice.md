@@ -5,6 +5,7 @@ permalink: /games/last-slice/
 date: 2022-04-20
 archived: false
 showTitle: false
+engine: "unity"
 
 squareIcon: "/assets/games/last_slice/lastSliceIcon512.png"
 logo: "/assets/games/last_slice/logo.png"

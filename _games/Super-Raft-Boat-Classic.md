@@ -6,6 +6,7 @@ date: 2021-02-22
 archived: false
 showTitle: false
 franchise: "Super Raft Boat"
+engine: "gamemaker"
 
 squareIcon: "/assets/games/super_raft_boat_classic/superRaftBoatClassic512.png"
 logo: "/assets/games/super_raft_boat_classic/logo.png"

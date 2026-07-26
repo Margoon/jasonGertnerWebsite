@@ -6,6 +6,7 @@ date: 2025-08-21
 archived: true
 showTitle: false
 franchise: "Burning Wood"
+engine: "turbo"
 
 squareIcon: "/assets/games/burning_wood_vs/burningWoodVSIcon.png"
 logo: "/assets/games/burning_wood_vs/logo.png"

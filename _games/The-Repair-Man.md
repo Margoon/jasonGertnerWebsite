@@ -5,6 +5,7 @@ permalink: /games/the-repair-man/
 date: 2020-02-02
 archived: true
 showTitle: true
+engine: "unity"
 
 squareIcon: "/assets/games/the_repair_man/theRepairManIcon512.png"
 logo: "/assets/games/the_repair_man/theRepairManIcon512.png"

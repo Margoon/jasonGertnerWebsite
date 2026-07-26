@@ -5,6 +5,7 @@ permalink: /games/lego-flame/
 date: 2021-02-27
 archived: true
 showTitle: true
+engine: "unity"
 
 squareIcon: "/assets/games/lego_flame/legoFlame512.png"
 logo: "/assets/games/lego_flame/legoFlame512.png"

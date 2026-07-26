@@ -5,6 +5,7 @@ permalink: /games/protest-sim/
 date: 2019-03-14
 archived: true
 showTitle: true
+engine: "unity"
 
 squareIcon: "/assets/games/protest_sim/protestIcon512.png"
 logo: "/assets/games/protest_sim/protestIcon512.png"

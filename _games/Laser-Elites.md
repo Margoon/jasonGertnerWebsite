@@ -5,6 +5,7 @@ permalink: /games/laser_elites/
 date: 2017-05-30
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/laser_elites/laserElitesIcon512.png"
 logo: "/assets/games/laser_elites/laserElitesIcon512.png"

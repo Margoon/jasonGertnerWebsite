@@ -5,6 +5,7 @@ permalink: /games/flappy-shuriken/
 date: 2014-10-01
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/flappy_shuriken/shuriken512.png"
 logo: "/assets/games/flappy_shuriken/shuriken512.png"

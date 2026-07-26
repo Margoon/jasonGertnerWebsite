@@ -5,6 +5,7 @@ permalink: /games/rushdown-revolt/
 date: 2021-01-27
 archived: true
 showTitle: false
+engine: "unity"
 
 squareIcon: "/assets/games/rushdown_revolt/rushdownRevoltIcon.jpg"
 logo: "/assets/games/rushdown_revolt/logo.png"

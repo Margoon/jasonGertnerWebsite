@@ -5,6 +5,7 @@ permalink: /games/freqsent/
 date: 2018-01-28
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/freqsent/freqsentIcon512.png"
 logo: "/assets/games/freqsent/freqsentIcon512.png"

@@ -5,6 +5,7 @@ permalink: /games/spooky_sams_spooktacular/
 date: 2017-10-14
 archived: true
 showTitle: true
+engine: "gamemaker"
 
 squareIcon: "/assets/games/spooky_sams_spooktacular/spookySamIcon512.png"
 logo: "/assets/games/spooky_sams_spooktacular/spookySamIcon512.png"
